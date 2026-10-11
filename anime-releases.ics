@@ -1,0 +1,1606 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ali Anime//Release Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anime Releases
+X-WR-CALDESC:Episode release times from the uploader Ali downloads from (Ny
+ aa)
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:mal61987-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261002T161630Z
+DTEND:20261002T173630Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 49)\nReleased Fri 02 Oct 16:16 UTC\n
+ MAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261009T150152Z
+DTEND:20261009T162152Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 50)\nReleased Fri 09 Oct 15:01 UTC\n
+ MAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261016T150000Z
+DTEND:20261016T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 51)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261023T150000Z
+DTEND:20261023T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 52)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261030T150000Z
+DTEND:20261030T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 53)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261106T150000Z
+DTEND:20261106T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 54)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261113T150000Z
+DTEND:20261113T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 55)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261120T150000Z
+DTEND:20261120T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 56)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261127T150000Z
+DTEND:20261127T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 57)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261204T150000Z
+DTEND:20261204T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 58)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261211T150000Z
+DTEND:20261211T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 59)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61987-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261218T150000Z
+DTEND:20261218T162000Z
+SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 12 (Final)
+DESCRIPTION:Uploader: SubsPlease (file 60)\nExpected 15:00-16:20 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+URL:https://myanimelist.net/anime/61987
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261003T150731Z
+DTEND:20261003T151731Z
+SUMMARY:Black Clover 2nd Season - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 171)\nReleased Sat 03 Oct 15:07 UTC\
+ nEpisode count not on MAL yet\; list runs to 13 until it is\nMAL: https://
+ myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261010T150411Z
+DTEND:20261010T151411Z
+SUMMARY:Black Clover 2nd Season - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 172)\nReleased Sat 10 Oct 15:04 UTC\
+ nEpisode count not on MAL yet\; list runs to 13 until it is\nMAL: https://
+ myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261017T150000Z
+DTEND:20261017T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 173)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261024T150000Z
+DTEND:20261024T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 174)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261031T150000Z
+DTEND:20261031T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 175)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261107T150000Z
+DTEND:20261107T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 176)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261114T150000Z
+DTEND:20261114T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 177)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261121T150000Z
+DTEND:20261121T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 178)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261128T150000Z
+DTEND:20261128T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 179)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261205T150000Z
+DTEND:20261205T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 180)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261212T150000Z
+DTEND:20261212T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 181)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261219T150000Z
+DTEND:20261219T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 12
+DESCRIPTION:Uploader: SubsPlease (file 182)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61967-ep13@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261226T150000Z
+DTEND:20261226T151000Z
+SUMMARY:Black Clover 2nd Season - Episode 13
+DESCRIPTION:Uploader: SubsPlease (file 183)\nExpected 15:00-15:10 UTC\, fro
+ m recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 13 u
+ ntil it is\nMAL: https://myanimelist.net/anime/61967
+URL:https://myanimelist.net/anime/61967
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20260930T190614Z
+DTEND:20260930T192114Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 01)\nReleased Wed 30 Sep 19:06 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261007T153437Z
+DTEND:20261007T154937Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 02)\nReleased Wed 07 Oct 15:34 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261014T153000Z
+DTEND:20261014T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 03)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261021T153000Z
+DTEND:20261021T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 04)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261028T153000Z
+DTEND:20261028T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 05)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261104T153000Z
+DTEND:20261104T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 06)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261111T153000Z
+DTEND:20261111T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 07)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261118T153000Z
+DTEND:20261118T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 08)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261125T153000Z
+DTEND:20261125T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 09)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261202T153000Z
+DTEND:20261202T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 10)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261209T153000Z
+DTEND:20261209T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 11)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal53913-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261216T153000Z
+DTEND:20261216T154500Z
+SUMMARY:Tensei shitara Ken deshita II - Episode 12
+DESCRIPTION:Uploader: SubsPlease (file 12)\nExpected 15:30-15:45 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/53913
+URL:https://myanimelist.net/anime/53913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20260927T150901Z
+DTEND:20260927T152901Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 25)\nReleased Sun 27 Sep 15:09 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261004T150209Z
+DTEND:20261004T152209Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 26)\nReleased Sun 04 Oct 15:02 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261011T150000Z
+DTEND:20261011T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 27)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261018T150000Z
+DTEND:20261018T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 28)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261025T150000Z
+DTEND:20261025T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 29)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261101T150000Z
+DTEND:20261101T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 30)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261108T150000Z
+DTEND:20261108T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 31)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261115T150000Z
+DTEND:20261115T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 32)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261122T150000Z
+DTEND:20261122T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 33)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261129T150000Z
+DTEND:20261129T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 34)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261206T150000Z
+DTEND:20261206T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 35)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal60601-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261213T150000Z
+DTEND:20261213T152000Z
+SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 12
+DESCRIPTION:Uploader: SubsPlease (file 36)\nExpected 15:00-15:20 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/60601
+URL:https://myanimelist.net/anime/60601
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20260927T143210Z
+DTEND:20260927T143710Z
+SUMMARY:Tempal: Item no Chikara - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 01)\nReleased Sun 27 Sep 14:32 UTC\n
+ English title: Overgeared\nMAL: https://myanimelist.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261004T143329Z
+DTEND:20261004T143829Z
+SUMMARY:Tempal: Item no Chikara - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 02)\nReleased Sun 04 Oct 14:33 UTC\n
+ English title: Overgeared\nMAL: https://myanimelist.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261011T143000Z
+DTEND:20261011T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 03)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261018T143000Z
+DTEND:20261018T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 04)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261025T143000Z
+DTEND:20261025T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 05)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261101T143000Z
+DTEND:20261101T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 06)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261108T143000Z
+DTEND:20261108T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 07)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261115T143000Z
+DTEND:20261115T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 08)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261122T143000Z
+DTEND:20261122T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 09)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261129T143000Z
+DTEND:20261129T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 10)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261206T143000Z
+DTEND:20261206T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 11)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64340-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261213T143000Z
+DTEND:20261213T143500Z
+SUMMARY:Tempal: Item no Chikara - Episode 12 (Final)
+DESCRIPTION:Uploader: SubsPlease (file 12)\nExpected 14:30-14:35 UTC\, from
+  recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://myanimeli
+ st.net/anime/64340
+URL:https://myanimelist.net/anime/64340
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20260926T133731Z
+DTEND:20260926T134731Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 01
+DESCRIPTION:Uploader: SubsPlease (file 13)\nReleased Sat 26 Sep 13:37 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261003T133224Z
+DTEND:20261003T134224Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 02
+DESCRIPTION:Uploader: SubsPlease (file 14)\nReleased Sat 03 Oct 13:32 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261010T133207Z
+DTEND:20261010T134207Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 03
+DESCRIPTION:Uploader: SubsPlease (file 15)\nReleased Sat 10 Oct 13:32 UTC\n
+ Episode count not on MAL yet\; list runs to 12 until it is\nMAL: https://m
+ yanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261017T133000Z
+DTEND:20261017T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 04
+DESCRIPTION:Uploader: SubsPlease (file 16)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261024T133000Z
+DTEND:20261024T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 05
+DESCRIPTION:Uploader: SubsPlease (file 17)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261031T133000Z
+DTEND:20261031T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 06
+DESCRIPTION:Uploader: SubsPlease (file 18)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261107T133000Z
+DTEND:20261107T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 07
+DESCRIPTION:Uploader: SubsPlease (file 19)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261114T133000Z
+DTEND:20261114T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 08
+DESCRIPTION:Uploader: SubsPlease (file 20)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261121T133000Z
+DTEND:20261121T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 09
+DESCRIPTION:Uploader: SubsPlease (file 21)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261128T133000Z
+DTEND:20261128T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 10
+DESCRIPTION:Uploader: SubsPlease (file 22)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261205T133000Z
+DTEND:20261205T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 11
+DESCRIPTION:Uploader: SubsPlease (file 23)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63140-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261212T133000Z
+DTEND:20261212T134000Z
+SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 12
+DESCRIPTION:Uploader: SubsPlease (file 24)\nExpected 13:30-13:40 UTC\, from
+  recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 un
+ til it is\nMAL: https://myanimelist.net/anime/63140
+URL:https://myanimelist.net/anime/63140
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261005T123156Z
+DTEND:20261005T124656Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 01
+DESCRIPTION:Uploader: SubsPlease (file 01)\nReleased Mon 05 Oct 12:31 UTC\n
+ MAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261012T123000Z
+DTEND:20261012T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 02
+DESCRIPTION:Uploader: SubsPlease (file 02)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261019T123000Z
+DTEND:20261019T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 03
+DESCRIPTION:Uploader: SubsPlease (file 03)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261026T123000Z
+DTEND:20261026T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 04
+DESCRIPTION:Uploader: SubsPlease (file 04)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261102T123000Z
+DTEND:20261102T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 05
+DESCRIPTION:Uploader: SubsPlease (file 05)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261109T123000Z
+DTEND:20261109T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 06
+DESCRIPTION:Uploader: SubsPlease (file 06)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261116T123000Z
+DTEND:20261116T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 07
+DESCRIPTION:Uploader: SubsPlease (file 07)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261123T123000Z
+DTEND:20261123T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 08
+DESCRIPTION:Uploader: SubsPlease (file 08)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261130T123000Z
+DTEND:20261130T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 09
+DESCRIPTION:Uploader: SubsPlease (file 09)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261207T123000Z
+DTEND:20261207T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 10
+DESCRIPTION:Uploader: SubsPlease (file 10)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261214T123000Z
+DTEND:20261214T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 11
+DESCRIPTION:Uploader: SubsPlease (file 11)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63409-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261221T123000Z
+DTEND:20261221T124500Z
+SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
+ ode 12 (Final)
+DESCRIPTION:Uploader: SubsPlease (file 12)\nExpected 12:30-12:45 UTC\, from
+  recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+URL:https://myanimelist.net/anime/63409
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1181@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261011T172000Z
+DTEND:20261011T182000Z
+SUMMARY:One Piece - Episode 1181
+DESCRIPTION:Uploader: ASW (file 1181)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1182@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261018T172000Z
+DTEND:20261018T182000Z
+SUMMARY:One Piece - Episode 1182
+DESCRIPTION:Uploader: ASW (file 1182)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1183@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261025T172000Z
+DTEND:20261025T182000Z
+SUMMARY:One Piece - Episode 1183
+DESCRIPTION:Uploader: ASW (file 1183)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1184@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261101T172000Z
+DTEND:20261101T182000Z
+SUMMARY:One Piece - Episode 1184
+DESCRIPTION:Uploader: ASW (file 1184)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1185@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261108T172000Z
+DTEND:20261108T182000Z
+SUMMARY:One Piece - Episode 1185
+DESCRIPTION:Uploader: ASW (file 1185)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1186@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261115T172000Z
+DTEND:20261115T182000Z
+SUMMARY:One Piece - Episode 1186
+DESCRIPTION:Uploader: ASW (file 1186)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1187@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261122T172000Z
+DTEND:20261122T182000Z
+SUMMARY:One Piece - Episode 1187
+DESCRIPTION:Uploader: ASW (file 1187)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1188@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261129T172000Z
+DTEND:20261129T182000Z
+SUMMARY:One Piece - Episode 1188
+DESCRIPTION:Uploader: ASW (file 1188)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1189@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261206T172000Z
+DTEND:20261206T182000Z
+SUMMARY:One Piece - Episode 1189
+DESCRIPTION:Uploader: ASW (file 1189)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1190@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261213T172000Z
+DTEND:20261213T182000Z
+SUMMARY:One Piece - Episode 1190
+DESCRIPTION:Uploader: ASW (file 1190)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1191@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261220T172000Z
+DTEND:20261220T182000Z
+SUMMARY:One Piece - Episode 1191
+DESCRIPTION:Uploader: ASW (file 1191)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1192@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261227T172000Z
+DTEND:20261227T182000Z
+SUMMARY:One Piece - Episode 1192
+DESCRIPTION:Uploader: ASW (file 1192)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal21-ep1193@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20270103T172000Z
+DTEND:20270103T182000Z
+SUMMARY:One Piece - Episode 1193
+DESCRIPTION:Uploader: ASW (file 1193)\nExpected 17:20-18:20 UTC\, from rece
+ nt Nyaa post times\nASW 1080p HEVC\, about an hour after SubsPlease. No ep
+ isode on 4 Oct (break).\nMAL: https://myanimelist.net/anime/21
+URL:https://myanimelist.net/anime/21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261004T212908Z
+DTEND:20261004T215908Z
+SUMMARY:Ao no Hako Season 2 - Episode 01
+DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Sun 04 Oct 21:29 UTC\nN
+ etflix. Slot is based on one episode so far.\nMAL: https://myanimelist.net
+ /anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261011T213000Z
+DTEND:20261011T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 02
+DESCRIPTION:Uploader: Erai-raws (file 02)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261018T213000Z
+DTEND:20261018T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 03
+DESCRIPTION:Uploader: Erai-raws (file 03)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261025T213000Z
+DTEND:20261025T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 04
+DESCRIPTION:Uploader: Erai-raws (file 04)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261101T213000Z
+DTEND:20261101T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 05
+DESCRIPTION:Uploader: Erai-raws (file 05)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261108T213000Z
+DTEND:20261108T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 06
+DESCRIPTION:Uploader: Erai-raws (file 06)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261115T213000Z
+DTEND:20261115T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 07
+DESCRIPTION:Uploader: Erai-raws (file 07)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261122T213000Z
+DTEND:20261122T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 08
+DESCRIPTION:Uploader: Erai-raws (file 08)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261129T213000Z
+DTEND:20261129T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 09
+DESCRIPTION:Uploader: Erai-raws (file 09)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261206T213000Z
+DTEND:20261206T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 10
+DESCRIPTION:Uploader: Erai-raws (file 10)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261213T213000Z
+DTEND:20261213T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 11
+DESCRIPTION:Uploader: Erai-raws (file 11)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal61323-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261220T213000Z
+DTEND:20261220T220000Z
+SUMMARY:Ao no Hako Season 2 - Episode 12 (Final)
+DESCRIPTION:Uploader: Erai-raws (file 12)\nExpected 21:30-22:00 UTC\, from 
+ recent Nyaa post times\nNetflix. Slot is based on one episode so far.\nMAL
+ : https://myanimelist.net/anime/61323
+URL:https://myanimelist.net/anime/61323
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261002T014020Z
+DTEND:20261002T034020Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 01
+DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Fri 02 Oct 01:40 UTC\nE
+ pisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\nMAL: 
+ https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261008T170359Z
+DTEND:20261008T190359Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 02
+DESCRIPTION:Uploader: Erai-raws (file 02)\nReleased Thu 08 Oct 17:03 UTC\nE
+ pisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\nMAL: 
+ https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261015T153000Z
+DTEND:20261015T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 03
+DESCRIPTION:Uploader: Erai-raws (file 03)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261022T153000Z
+DTEND:20261022T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 04
+DESCRIPTION:Uploader: Erai-raws (file 04)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261029T153000Z
+DTEND:20261029T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 05
+DESCRIPTION:Uploader: Erai-raws (file 05)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261105T153000Z
+DTEND:20261105T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 06
+DESCRIPTION:Uploader: Erai-raws (file 06)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261112T153000Z
+DTEND:20261112T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 07
+DESCRIPTION:Uploader: Erai-raws (file 07)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261119T153000Z
+DTEND:20261119T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 08
+DESCRIPTION:Uploader: Erai-raws (file 08)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261126T153000Z
+DTEND:20261126T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 09
+DESCRIPTION:Uploader: Erai-raws (file 09)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261203T153000Z
+DTEND:20261203T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 10
+DESCRIPTION:Uploader: Erai-raws (file 10)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261210T153000Z
+DTEND:20261210T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 11
+DESCRIPTION:Uploader: Erai-raws (file 11)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261217T153000Z
+DTEND:20261217T173000Z
+SUMMARY:Koori no Jouheki 2nd Season - Episode 12
+DESCRIPTION:Uploader: Erai-raws (file 12)\nExpected 15:30-17:30 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep1@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261003T171409Z
+DTEND:20261003T173409Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 01
+DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Sat 03 Oct 17:14 UTC\nE
+ pisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\nMAL: 
+ https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep2@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261010T172025Z
+DTEND:20261010T174025Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 02
+DESCRIPTION:Uploader: Erai-raws (file 02)\nReleased Sat 10 Oct 17:20 UTC\nE
+ pisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\nMAL: 
+ https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep3@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261017T170500Z
+DTEND:20261017T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 03
+DESCRIPTION:Uploader: Erai-raws (file 03)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep4@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261024T170500Z
+DTEND:20261024T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 04
+DESCRIPTION:Uploader: Erai-raws (file 04)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep5@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261031T170500Z
+DTEND:20261031T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 05
+DESCRIPTION:Uploader: Erai-raws (file 05)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep6@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261107T170500Z
+DTEND:20261107T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 06
+DESCRIPTION:Uploader: Erai-raws (file 06)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep7@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261114T170500Z
+DTEND:20261114T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 07
+DESCRIPTION:Uploader: Erai-raws (file 07)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep8@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261121T170500Z
+DTEND:20261121T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 08
+DESCRIPTION:Uploader: Erai-raws (file 08)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep9@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261128T170500Z
+DTEND:20261128T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 09
+DESCRIPTION:Uploader: Erai-raws (file 09)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep10@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261205T170500Z
+DTEND:20261205T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 10
+DESCRIPTION:Uploader: Erai-raws (file 10)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep11@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261212T170500Z
+DTEND:20261212T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 11
+DESCRIPTION:Uploader: Erai-raws (file 11)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal63801-ep12@ali-anime-calendar
+DTSTAMP:20261011T080716Z
+DTSTART:20261219T170500Z
+DTEND:20261219T172500Z
+SUMMARY:Ranma ½ (2024) 3rd Season - Episode 12
+DESCRIPTION:Uploader: Erai-raws (file 12)\nExpected 17:05-17:25 UTC\, from 
+ recent Nyaa post times\nEpisode count not on MAL yet\; list runs to 12 unt
+ il it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+URL:https://myanimelist.net/anime/63801
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
