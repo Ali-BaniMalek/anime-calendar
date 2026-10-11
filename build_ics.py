@@ -13,6 +13,7 @@ import json
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "shows.json"
@@ -71,7 +72,19 @@ def episodes(show):
         yield ep, dt, False
 
 
+def shift_window(window, tz):
+    """Turn a "HH:MM-HH:MM" UTC window into the display time zone."""
+    out = []
+    for part in window.split("-"):
+        h, m = map(int, part.split(":"))
+        t = datetime(2026, 1, 1, h, m, tzinfo=timezone.utc).astimezone(tz)
+        out.append(t.strftime("%H:%M"))
+    return "-".join(out)
+
+
 def build(data):
+    tz = ZoneInfo(data.get("display_tz", "UTC"))
+    tz_label = data.get("display_tz_label", "UTC")
     now = fmt(datetime.now(timezone.utc))
     name = data.get("calendar_name", "Anime Releases")
     lines = [
@@ -80,7 +93,7 @@ def build(data):
         "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
         f"X-WR-CALNAME:{esc(name)}",
         "X-WR-CALDESC:Episode release times from the uploader Ali downloads from (Nyaa)",
-        "X-WR-TIMEZONE:UTC",
+        f"X-WR-TIMEZONE:{tz.key}",
         "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
         "X-PUBLISHED-TTL:PT6H",
     ]
@@ -97,9 +110,10 @@ def build(data):
                 summary += " (Final)"
             desc = [f"Uploader: {show['uploader']} (file {ep + offset:02d})"]
             if done:
-                desc.append(f"Released {start:%a %d %b %H:%M} UTC")
+                desc.append(f"Released {start.astimezone(tz):%a %d %b %H:%M} {tz_label}")
             else:
-                desc.append(f"Expected {show.get('window', start.strftime('%H:%M'))} UTC, "
+                window = show.get("window", start.strftime("%H:%M"))
+                desc.append(f"Usually out {shift_window(window, tz)} {tz_label}, "
                             "from recent Nyaa post times")
             if not total and show.get("first_episode", 1) == 1:
                 desc.append("Episode count not on MAL yet; list runs to "

@@ -1,6 +1,8 @@
 {
   "season": "Fall 2026",
   "calendar_name": "Anime Releases",
+  "display_tz": "Asia/Dubai",
+  "display_tz_label": "UAE time",
   "updated": "2026-10-11",
   "shows": [
     {"title": "Kusuriya no Hitorigoto 3rd Season", "mal_id": 61987, "uploader": "SubsPlease", "nyaa_query": "[SubsPlease] Kusuriya no Hitorigoto 1080p",

@@ -8,6 +8,7 @@
 - Title = MAL main title, verbatim (exceptions in English: Solo Leveling, Tomb Raider King). Event name: `<title> - Episode NN`, last one gets ` (Final)`.
 - Episode numbers follow MAL's season numbering; `file_offset` maps to the uploader's number (SubsPlease Kusuriya 49 = S3 ep 1, offset 48).
 - One event per episode, no repeating events. Event length = the window in which the uploader usually posts, so it differs per show.
+- Times are stored in UTC (Apple shows them in the device time zone); descriptions use `display_tz` (UAE, Asia/Dubai). `window` and `slot` are UTC.
 - Time = when the uploader Ali downloads from posts it on Nyaa (SubsPlease by default; ASW for One Piece; Erai-raws AVC for Netflix shows).
 
 ## Fields
