@@ -211,20 +211,21 @@
     {
       "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
       "mal_id": 64503,
-      "uploader": "Erai-raws",
-      "nyaa_query": "Erai-raws Yozakura-san Chi no Daisakusen 2nd Season Part 2 1080p AVC",
+      "uploader": "ToonsHub",
+      "nyaa_query": "ToonsHub Mission Yozakura Family 1080p",
       "total_episodes": null,
       "horizon": 12,
-      "window": "15:20-15:35",
+      "window": "08:30-08:45",
       "duration_minutes": 15,
-      "note": "Disney+, not on SubsPlease. Erai-raws 1080p AVC; ToonsHub posts about 7h earlier.",
+      "note": "Disney+, not on SubsPlease. ToonsHub 1080p AVC, files named 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1).",
       "released": {
-        "1": "2026-10-11T15:20:05Z"
+        "1": "2026-10-11T08:34:29Z"
       },
       "slot": {
         "episode": 2,
-        "utc": "2026-10-18T15:20:00Z"
-      }
+        "utc": "2026-10-18T08:30:00Z"
+      },
+      "file_offset": 12
     },
     {
       "title": "Hotaru no Yomeiri",
