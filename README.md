@@ -18,6 +18,9 @@
 - `total_episodes`: MAL's count, or null. Null means the list runs to `horizon` and says the count is unconfirmed.
 - `pending`: show is on the watchlist but hasn't started; left out of the feed.
 
+## Long runners
+Shows marked `long_runner` (One Piece) stay in `shows.json` permanently, whether or not they're on the season's watchlist. During a hiatus they're `pending` (hidden from the feed); each refresh checks Nyaa and news for the return, then sets `slot` and turns `pending` off. Keep `horizon` about 12 episodes ahead.
+
 ## Weekly refresh
 For each show: check Nyaa RSS (`nyaa_query`) for new episodes, add them to `released`, move `slot` to the next episode with the observed time, add `skip` for any missed week, update `total_episodes` from MAL, flip `pending` off when episode 1 appears. Finished shows stay until the season after next, so past episodes remain visible. Rebuild and publish.
 

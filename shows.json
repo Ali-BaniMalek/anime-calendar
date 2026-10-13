@@ -153,6 +153,26 @@
       "note": "Starts Tue 13 Oct (MAL). Time is Part 1's SubsPlease slot until episode 1 is out; SubsPlease file numbering for Part 2 not known yet."
     },
     {
+      "title": "One Piece",
+      "mal_id": 21,
+      "uploader": "ASW",
+      "nyaa_query": "[ASW] One Piece",
+      "long_runner": true,
+      "pending": true,
+      "pending_note": "On hiatus after episode 1180 (27 Sep 2026); next episode announced for 2027, date TBA. When ASW posts 1181 (or a date is announced), set slot and turn pending off.",
+      "first_episode": 1181,
+      "total_episodes": null,
+      "horizon": 1193,
+      "window": "17:20-18:20",
+      "duration_minutes": 60,
+      "note": "ASW 1080p HEVC, about an hour after SubsPlease.",
+      "released": {},
+      "slot": {
+        "episode": 1181,
+        "utc": "2027-01-03T17:20:00Z"
+      }
+    },
+    {
       "title": "Ao no Hako Season 2",
       "mal_id": 61323,
       "uploader": "Erai-raws",
