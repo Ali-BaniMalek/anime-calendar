@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:mal61987-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261002T161630Z
-DTEND:20261002T173630Z
+DTEND:20261002T163130Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 01
 DESCRIPTION:Uploader: SubsPlease (file 49)\nReleased Fri 02 Oct 20:16 UAE t
  ime\nMAL: https://myanimelist.net/anime/61987
@@ -22,9 +22,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261009T150152Z
-DTEND:20261009T162152Z
+DTEND:20261009T151652Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 02
 DESCRIPTION:Uploader: SubsPlease (file 50)\nReleased Fri 09 Oct 19:01 UAE t
  ime\nMAL: https://myanimelist.net/anime/61987
@@ -33,117 +33,117 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261016T150000Z
-DTEND:20261016T162000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261016T150150Z
+DTEND:20261016T151650Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 03
-DESCRIPTION:Uploader: SubsPlease (file 51)\nUsually out 19:00-20:20 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+DESCRIPTION:Uploader: SubsPlease (file 51)\nReleased Fri 16 Oct 19:01 UAE t
+ ime\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261023T150000Z
-DTEND:20261023T162000Z
+DTEND:20261023T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 04
-DESCRIPTION:Uploader: SubsPlease (file 52)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 52)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261030T150000Z
-DTEND:20261030T162000Z
+DTEND:20261030T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 05
-DESCRIPTION:Uploader: SubsPlease (file 53)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 53)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261106T150000Z
-DTEND:20261106T162000Z
+DTEND:20261106T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 06
-DESCRIPTION:Uploader: SubsPlease (file 54)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 54)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261113T150000Z
-DTEND:20261113T162000Z
+DTEND:20261113T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 07
-DESCRIPTION:Uploader: SubsPlease (file 55)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 55)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261120T150000Z
-DTEND:20261120T162000Z
+DTEND:20261120T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 08
-DESCRIPTION:Uploader: SubsPlease (file 56)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 56)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261127T150000Z
-DTEND:20261127T162000Z
+DTEND:20261127T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 09
-DESCRIPTION:Uploader: SubsPlease (file 57)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 57)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261204T150000Z
-DTEND:20261204T162000Z
+DTEND:20261204T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 10
-DESCRIPTION:Uploader: SubsPlease (file 58)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 58)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261211T150000Z
-DTEND:20261211T162000Z
+DTEND:20261211T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 11
-DESCRIPTION:Uploader: SubsPlease (file 59)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 59)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261218T150000Z
-DTEND:20261218T162000Z
+DTEND:20261218T151500Z
 SUMMARY:Kusuriya no Hitorigoto 3rd Season - Episode 12 (Final)
-DESCRIPTION:Uploader: SubsPlease (file 60)\nUsually out 19:00-20:20 UAE tim
+DESCRIPTION:Uploader: SubsPlease (file 60)\nUsually out 19:00-19:15 UAE tim
  e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261003T150731Z
 DTEND:20261003T151731Z
 SUMMARY:Black Clover 2nd Season - Episode 01
@@ -155,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261010T150411Z
 DTEND:20261010T151411Z
 SUMMARY:Black Clover 2nd Season - Episode 02
@@ -167,19 +167,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261017T150000Z
-DTEND:20261017T151000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261017T150420Z
+DTEND:20261017T151420Z
 SUMMARY:Black Clover 2nd Season - Episode 03
-DESCRIPTION:Uploader: SubsPlease (file 173)\nUsually out 19:00-19:10 UAE ti
- me\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs
-  to 13 until it is\nMAL: https://myanimelist.net/anime/61967
+DESCRIPTION:Uploader: SubsPlease (file 173)\nReleased Sat 17 Oct 19:04 UAE 
+ time\nEpisode count not on MAL yet\; list runs to 13 until it is\nMAL: htt
+ ps://myanimelist.net/anime/61967
 URL:https://myanimelist.net/anime/61967
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261024T150000Z
 DTEND:20261024T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 04
@@ -191,7 +191,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261031T150000Z
 DTEND:20261031T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 05
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261107T150000Z
 DTEND:20261107T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 06
@@ -215,7 +215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261114T150000Z
 DTEND:20261114T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 07
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261121T150000Z
 DTEND:20261121T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 08
@@ -239,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261128T150000Z
 DTEND:20261128T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 09
@@ -251,7 +251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261205T150000Z
 DTEND:20261205T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 10
@@ -263,7 +263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261212T150000Z
 DTEND:20261212T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 11
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261219T150000Z
 DTEND:20261219T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 12
@@ -287,7 +287,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61967-ep13@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261226T150000Z
 DTEND:20261226T151000Z
 SUMMARY:Black Clover 2nd Season - Episode 13
@@ -299,151 +299,139 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20260930T190614Z
 DTEND:20260930T192114Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 01
 DESCRIPTION:Uploader: SubsPlease (file 01)\nReleased Wed 30 Sep 23:06 UAE t
- ime\nEpisode count not on MAL yet\; list runs to 12 until it is\nMAL: http
- s://myanimelist.net/anime/53913
+ ime\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261007T153437Z
 DTEND:20261007T154937Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 02
 DESCRIPTION:Uploader: SubsPlease (file 02)\nReleased Wed 07 Oct 19:34 UAE t
- ime\nEpisode count not on MAL yet\; list runs to 12 until it is\nMAL: http
- s://myanimelist.net/anime/53913
+ ime\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261014T153000Z
-DTEND:20261014T154500Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261014T153451Z
+DTEND:20261014T154951Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 03
-DESCRIPTION:Uploader: SubsPlease (file 03)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+DESCRIPTION:Uploader: SubsPlease (file 03)\nReleased Wed 14 Oct 19:34 UAE t
+ ime\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261021T153000Z
 DTEND:20261021T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 04
 DESCRIPTION:Uploader: SubsPlease (file 04)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261028T153000Z
 DTEND:20261028T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 05
 DESCRIPTION:Uploader: SubsPlease (file 05)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261104T153000Z
 DTEND:20261104T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 06
 DESCRIPTION:Uploader: SubsPlease (file 06)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261111T153000Z
 DTEND:20261111T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 07
 DESCRIPTION:Uploader: SubsPlease (file 07)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261118T153000Z
 DTEND:20261118T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 08
 DESCRIPTION:Uploader: SubsPlease (file 08)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261125T153000Z
 DTEND:20261125T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 09
 DESCRIPTION:Uploader: SubsPlease (file 09)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261202T153000Z
 DTEND:20261202T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 10
 DESCRIPTION:Uploader: SubsPlease (file 10)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261209T153000Z
 DTEND:20261209T154500Z
 SUMMARY:Tensei shitara Ken deshita II - Episode 11
 DESCRIPTION:Uploader: SubsPlease (file 11)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261216T153000Z
 DTEND:20261216T154500Z
-SUMMARY:Tensei shitara Ken deshita II - Episode 12
+SUMMARY:Tensei shitara Ken deshita II - Episode 12 (Final)
 DESCRIPTION:Uploader: SubsPlease (file 12)\nUsually out 19:30-19:45 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/53913
+ e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20260927T150901Z
 DTEND:20260927T152901Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 01
@@ -455,7 +443,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261004T150209Z
 DTEND:20261004T152209Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 02
@@ -467,7 +455,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261011T150213Z
 DTEND:20261011T152213Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 03
@@ -479,19 +467,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261018T150000Z
-DTEND:20261018T152000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261018T150209Z
+DTEND:20261018T152209Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 04
-DESCRIPTION:Uploader: SubsPlease (file 28)\nUsually out 19:00-19:20 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/60601
+DESCRIPTION:Uploader: SubsPlease (file 28)\nReleased Sun 18 Oct 19:02 UAE t
+ ime\nEpisode count not on MAL yet\; list runs to 12 until it is\nMAL: http
+ s://myanimelist.net/anime/60601
 URL:https://myanimelist.net/anime/60601
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261025T150000Z
 DTEND:20261025T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 05
@@ -503,7 +491,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261101T150000Z
 DTEND:20261101T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 06
@@ -515,7 +503,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261108T150000Z
 DTEND:20261108T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 07
@@ -527,7 +515,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261115T150000Z
 DTEND:20261115T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 08
@@ -539,7 +527,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261122T150000Z
 DTEND:20261122T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 09
@@ -551,7 +539,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261129T150000Z
 DTEND:20261129T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 10
@@ -563,7 +551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261206T150000Z
 DTEND:20261206T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 11
@@ -575,7 +563,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal60601-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261213T150000Z
 DTEND:20261213T152000Z
 SUMMARY:Tensei Kizoku\, Kantei Skill de Nariagaru 3rd Season - Episode 12
@@ -587,7 +575,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20260927T143210Z
 DTEND:20260927T144210Z
 SUMMARY:Tempal: Item no Chikara - Episode 01
@@ -598,7 +586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261004T143329Z
 DTEND:20261004T144329Z
 SUMMARY:Tempal: Item no Chikara - Episode 02
@@ -609,7 +597,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261011T143626Z
 DTEND:20261011T144626Z
 SUMMARY:Tempal: Item no Chikara - Episode 03
@@ -620,19 +608,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261018T143000Z
-DTEND:20261018T144000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261018T143523Z
+DTEND:20261018T144523Z
 SUMMARY:Tempal: Item no Chikara - Episode 04
-DESCRIPTION:Uploader: SubsPlease (file 04)\nUsually out 18:30-18:40 UAE tim
- e\, from recent Nyaa post times\nEnglish title: Overgeared\nMAL: https://m
- yanimelist.net/anime/64340
+DESCRIPTION:Uploader: SubsPlease (file 04)\nReleased Sun 18 Oct 18:35 UAE t
+ ime\nEnglish title: Overgeared\nMAL: https://myanimelist.net/anime/64340
 URL:https://myanimelist.net/anime/64340
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261025T143000Z
 DTEND:20261025T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 05
@@ -644,7 +631,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261101T143000Z
 DTEND:20261101T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 06
@@ -656,7 +643,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261108T143000Z
 DTEND:20261108T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 07
@@ -668,7 +655,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261115T143000Z
 DTEND:20261115T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 08
@@ -680,7 +667,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261122T143000Z
 DTEND:20261122T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 09
@@ -692,7 +679,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261129T143000Z
 DTEND:20261129T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 10
@@ -704,7 +691,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261206T143000Z
 DTEND:20261206T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 11
@@ -716,7 +703,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64340-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261213T143000Z
 DTEND:20261213T144000Z
 SUMMARY:Tempal: Item no Chikara - Episode 12 (Final)
@@ -728,7 +715,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20260926T133731Z
 DTEND:20260926T134731Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 01
@@ -740,7 +727,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261003T133224Z
 DTEND:20261003T134224Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 02
@@ -752,7 +739,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261010T133207Z
 DTEND:20261010T134207Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 03
@@ -764,19 +751,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261017T133000Z
-DTEND:20261017T134000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261017T133204Z
+DTEND:20261017T134204Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 04
-DESCRIPTION:Uploader: SubsPlease (file 16)\nUsually out 17:30-17:40 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nMAL: https://myanimelist.net/anime/63140
+DESCRIPTION:Uploader: SubsPlease (file 16)\nReleased Sat 17 Oct 17:32 UAE t
+ ime\nEpisode count not on MAL yet\; list runs to 12 until it is\nMAL: http
+ s://myanimelist.net/anime/63140
 URL:https://myanimelist.net/anime/63140
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261024T133000Z
 DTEND:20261024T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 05
@@ -788,7 +775,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261031T133000Z
 DTEND:20261031T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 06
@@ -800,7 +787,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261107T133000Z
 DTEND:20261107T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 07
@@ -812,7 +799,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261114T133000Z
 DTEND:20261114T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 08
@@ -824,7 +811,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261121T133000Z
 DTEND:20261121T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 09
@@ -836,7 +823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261128T133000Z
 DTEND:20261128T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 10
@@ -848,7 +835,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261205T133000Z
 DTEND:20261205T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 11
@@ -860,7 +847,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63140-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261212T133000Z
 DTEND:20261212T134000Z
 SUMMARY:Yasei no Last Boss ga Arawareta! 2nd Season - Episode 12
@@ -872,7 +859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261005T123156Z
 DTEND:20261005T124656Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -884,19 +871,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261012T123000Z
-DTEND:20261012T124500Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261012T123158Z
+DTEND:20261012T124658Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
  ode 02
-DESCRIPTION:Uploader: SubsPlease (file 02)\nUsually out 16:30-16:45 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/63409
+DESCRIPTION:Uploader: SubsPlease (file 02)\nReleased Mon 12 Oct 16:31 UAE t
+ ime\nMAL: https://myanimelist.net/anime/63409
 URL:https://myanimelist.net/anime/63409
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261019T123000Z
 DTEND:20261019T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -908,7 +895,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261026T123000Z
 DTEND:20261026T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -920,7 +907,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261102T123000Z
 DTEND:20261102T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -932,7 +919,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261109T123000Z
 DTEND:20261109T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -944,7 +931,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261116T123000Z
 DTEND:20261116T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -956,7 +943,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261123T123000Z
 DTEND:20261123T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -968,7 +955,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261130T123000Z
 DTEND:20261130T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -980,7 +967,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261207T123000Z
 DTEND:20261207T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -992,7 +979,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261214T123000Z
 DTEND:20261214T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -1004,7 +991,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63409-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261221T123000Z
 DTEND:20261221T124500Z
 SUMMARY:Doumo\, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. - Epis
@@ -1016,329 +1003,292 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261013T163000Z
-DTEND:20261013T163500Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261013T163209Z
+DTEND:20261013T163709Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 01
-DESCRIPTION:Uploader: SubsPlease (file 01)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 14)\nReleased Tue 13 Oct 20:32 UAE t
+ ime\nSubsPlease numbers Part 2 on from Part 1 (file 14 = Part 2 episode 1)
+ .\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261020T163000Z
 DTEND:20261020T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 02
-DESCRIPTION:Uploader: SubsPlease (file 02)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 15)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261027T163000Z
 DTEND:20261027T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 03
-DESCRIPTION:Uploader: SubsPlease (file 03)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 16)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261103T163000Z
 DTEND:20261103T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 04
-DESCRIPTION:Uploader: SubsPlease (file 04)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 17)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261110T163000Z
 DTEND:20261110T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 05
-DESCRIPTION:Uploader: SubsPlease (file 05)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 18)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261117T163000Z
 DTEND:20261117T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 06
-DESCRIPTION:Uploader: SubsPlease (file 06)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 19)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261124T163000Z
 DTEND:20261124T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 07
-DESCRIPTION:Uploader: SubsPlease (file 07)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 20)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261201T163000Z
 DTEND:20261201T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 08
-DESCRIPTION:Uploader: SubsPlease (file 08)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 21)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261208T163000Z
 DTEND:20261208T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 09
-DESCRIPTION:Uploader: SubsPlease (file 09)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 22)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261215T163000Z
 DTEND:20261215T163500Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 10
-DESCRIPTION:Uploader: SubsPlease (file 10)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 23)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261222T163000Z
 DTEND:20261222T163500Z
-SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 11
-DESCRIPTION:Uploader: SubsPlease (file 11)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
-URL:https://myanimelist.net/anime/62484
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mal62484-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261229T163000Z
-DTEND:20261229T163500Z
-SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 12
-DESCRIPTION:Uploader: SubsPlease (file 12)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs 
- to 12 until it is\nStarts Tue 13 Oct (MAL). Time is Part 1's SubsPlease sl
- ot until episode 1 is out\; SubsPlease file numbering for Part 2 not known
-  yet.\nMAL: https://myanimelist.net/anime/62484
+SUMMARY:Chitose-kun wa Ramune Bin no Naka Part 2 - Episode 11 (Final)
+DESCRIPTION:Uploader: SubsPlease (file 24)\nUsually out 20:30-20:35 UAE tim
+ e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
+ (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261004T212908Z
 DTEND:20261004T222908Z
 SUMMARY:Ao no Hako Season 2 - Episode 01
 DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Mon 05 Oct 01:29 UAE ti
- me\nNetflix. Episode 1 came at 21:29 UTC\, episode 2 at 15:13 UTC\; slot f
- ollows the latest.\nMAL: https://myanimelist.net/anime/61323
+ me\nNetflix. Post time has moved around (21:29\, 15:13\, 08:11 UTC)\; slot
+  follows the latest.\nMAL: https://myanimelist.net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261011T151307Z
 DTEND:20261011T161307Z
 SUMMARY:Ao no Hako Season 2 - Episode 02
 DESCRIPTION:Uploader: Erai-raws (file 02)\nReleased Sun 11 Oct 19:13 UAE ti
- me\nNetflix. Episode 1 came at 21:29 UTC\, episode 2 at 15:13 UTC\; slot f
- ollows the latest.\nMAL: https://myanimelist.net/anime/61323
+ me\nNetflix. Post time has moved around (21:29\, 15:13\, 08:11 UTC)\; slot
+  follows the latest.\nMAL: https://myanimelist.net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261018T151000Z
-DTEND:20261018T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261018T081115Z
+DTEND:20261018T091115Z
 SUMMARY:Ao no Hako Season 2 - Episode 03
-DESCRIPTION:Uploader: Erai-raws (file 03)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 03)\nReleased Sun 18 Oct 12:11 UAE ti
+ me\nNetflix. Post time has moved around (21:29\, 15:13\, 08:11 UTC)\; slot
+  follows the latest.\nMAL: https://myanimelist.net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261025T151000Z
-DTEND:20261025T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261025T081000Z
+DTEND:20261025T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 04
-DESCRIPTION:Uploader: Erai-raws (file 04)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 04)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261101T151000Z
-DTEND:20261101T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261101T081000Z
+DTEND:20261101T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 05
-DESCRIPTION:Uploader: Erai-raws (file 05)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 05)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261108T151000Z
-DTEND:20261108T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261108T081000Z
+DTEND:20261108T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 06
-DESCRIPTION:Uploader: Erai-raws (file 06)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 06)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261115T151000Z
-DTEND:20261115T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261115T081000Z
+DTEND:20261115T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 07
-DESCRIPTION:Uploader: Erai-raws (file 07)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 07)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261122T151000Z
-DTEND:20261122T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261122T081000Z
+DTEND:20261122T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 08
-DESCRIPTION:Uploader: Erai-raws (file 08)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 08)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261129T151000Z
-DTEND:20261129T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261129T081000Z
+DTEND:20261129T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 09
-DESCRIPTION:Uploader: Erai-raws (file 09)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 09)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261206T151000Z
-DTEND:20261206T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261206T081000Z
+DTEND:20261206T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 10
-DESCRIPTION:Uploader: Erai-raws (file 10)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 10)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261213T151000Z
-DTEND:20261213T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261213T081000Z
+DTEND:20261213T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 11
-DESCRIPTION:Uploader: Erai-raws (file 11)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 11)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal61323-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261220T151000Z
-DTEND:20261220T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261220T081000Z
+DTEND:20261220T091000Z
 SUMMARY:Ao no Hako Season 2 - Episode 12 (Final)
-DESCRIPTION:Uploader: Erai-raws (file 12)\nUsually out 19:10-20:10 UAE time
- \, from recent Nyaa post times\nNetflix. Episode 1 came at 21:29 UTC\, epi
- sode 2 at 15:13 UTC\; slot follows the latest.\nMAL: https://myanimelist.n
- et/anime/61323
+DESCRIPTION:Uploader: Erai-raws (file 12)\nUsually out 12:10-13:10 UAE time
+ \, from recent Nyaa post times\nNetflix. Post time has moved around (21:29
+ \, 15:13\, 08:11 UTC)\; slot follows the latest.\nMAL: https://myanimelist
+ .net/anime/61323
 URL:https://myanimelist.net/anime/61323
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261002T014020Z
 DTEND:20261002T034020Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 01
@@ -1350,7 +1300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261008T170359Z
 DTEND:20261008T190359Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 02
@@ -1362,19 +1312,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261015T153000Z
-DTEND:20261015T173000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261015T154018Z
+DTEND:20261015T174018Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 03
-DESCRIPTION:Uploader: Erai-raws (file 03)\nUsually out 19:30-21:30 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/64534
+DESCRIPTION:Uploader: Erai-raws (file 03)\nReleased Thu 15 Oct 19:40 UAE ti
+ me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\n
+ MAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261022T153000Z
 DTEND:20261022T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 04
@@ -1386,7 +1336,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261029T153000Z
 DTEND:20261029T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 05
@@ -1398,7 +1348,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261105T153000Z
 DTEND:20261105T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 06
@@ -1410,7 +1360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261112T153000Z
 DTEND:20261112T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 07
@@ -1422,7 +1372,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261119T153000Z
 DTEND:20261119T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 08
@@ -1434,7 +1384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261126T153000Z
 DTEND:20261126T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 09
@@ -1446,7 +1396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261203T153000Z
 DTEND:20261203T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 10
@@ -1458,7 +1408,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261210T153000Z
 DTEND:20261210T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 11
@@ -1470,7 +1420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261217T153000Z
 DTEND:20261217T173000Z
 SUMMARY:Koori no Jouheki 2nd Season - Episode 12
@@ -1482,9 +1432,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261003T171409Z
-DTEND:20261003T173409Z
+DTEND:20261003T175409Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 01
 DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Sat 03 Oct 21:14 UAE ti
  me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\n
@@ -1494,9 +1444,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261010T172025Z
-DTEND:20261010T174025Z
+DTEND:20261010T180025Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 02
 DESCRIPTION:Uploader: Erai-raws (file 02)\nReleased Sat 10 Oct 21:20 UAE ti
  me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\n
@@ -1506,23 +1456,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261017T170500Z
-DTEND:20261017T172500Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261017T174204Z
+DTEND:20261017T182204Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 03
-DESCRIPTION:Uploader: Erai-raws (file 03)\nUsually out 21:05-21:25 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
+DESCRIPTION:Uploader: Erai-raws (file 03)\nReleased Sat 17 Oct 21:42 UAE ti
+ me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix.\n
+ MAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261024T170500Z
-DTEND:20261024T172500Z
+DTEND:20261024T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 04
-DESCRIPTION:Uploader: Erai-raws (file 04)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 04)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1530,11 +1480,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261031T170500Z
-DTEND:20261031T172500Z
+DTEND:20261031T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 05
-DESCRIPTION:Uploader: Erai-raws (file 05)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 05)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1542,11 +1492,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261107T170500Z
-DTEND:20261107T172500Z
+DTEND:20261107T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 06
-DESCRIPTION:Uploader: Erai-raws (file 06)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 06)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1554,11 +1504,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261114T170500Z
-DTEND:20261114T172500Z
+DTEND:20261114T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 07
-DESCRIPTION:Uploader: Erai-raws (file 07)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 07)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1566,11 +1516,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261121T170500Z
-DTEND:20261121T172500Z
+DTEND:20261121T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 08
-DESCRIPTION:Uploader: Erai-raws (file 08)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 08)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1578,11 +1528,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261128T170500Z
-DTEND:20261128T172500Z
+DTEND:20261128T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 09
-DESCRIPTION:Uploader: Erai-raws (file 09)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 09)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1590,11 +1540,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261205T170500Z
-DTEND:20261205T172500Z
+DTEND:20261205T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 10
-DESCRIPTION:Uploader: Erai-raws (file 10)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 10)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1602,11 +1552,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261212T170500Z
-DTEND:20261212T172500Z
+DTEND:20261212T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 11
-DESCRIPTION:Uploader: Erai-raws (file 11)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 11)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1614,11 +1564,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63801-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261219T170500Z
-DTEND:20261219T172500Z
+DTEND:20261219T174500Z
 SUMMARY:Ranma ½ (2024) 3rd Season - Episode 12
-DESCRIPTION:Uploader: Erai-raws (file 12)\nUsually out 21:05-21:25 UAE time
+DESCRIPTION:Uploader: Erai-raws (file 12)\nUsually out 21:05-21:45 UAE time
  \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
  o 12 until it is\nNetflix.\nMAL: https://myanimelist.net/anime/63801
 URL:https://myanimelist.net/anime/63801
@@ -1626,9 +1576,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261011T083429Z
-DTEND:20261011T084929Z
+DTEND:20261011T094929Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 01
 DESCRIPTION:Uploader: ToonsHub (file 13)\nReleased Sun 11 Oct 12:34 UAE tim
  e\nEpisode count not on MAL yet\; list runs to 12 until it is\nDisney+\, n
@@ -1640,25 +1590,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261018T083000Z
-DTEND:20261018T084500Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261018T094106Z
+DTEND:20261018T105606Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 02
-DESCRIPTION:Uploader: ToonsHub (file 14)\nUsually out 12:30-12:45 UAE time\
- , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
-  12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
- amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
- ).\nMAL: https://myanimelist.net/anime/64503
+DESCRIPTION:Uploader: ToonsHub (file 14)\nReleased Sun 18 Oct 13:41 UAE tim
+ e\nEpisode count not on MAL yet\; list runs to 12 until it is\nDisney+\, n
+ ot on SubsPlease. ToonsHub 1080p AVC\, files named 'Mission Yozakura Famil
+ y S02E13' (S02 numbering continues from Part 1).\nMAL: https://myanimelist
+ .net/anime/64503
 URL:https://myanimelist.net/anime/64503
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261025T083000Z
-DTEND:20261025T084500Z
+DTEND:20261025T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 03
-DESCRIPTION:Uploader: ToonsHub (file 15)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 15)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1668,11 +1618,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261101T083000Z
-DTEND:20261101T084500Z
+DTEND:20261101T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 04
-DESCRIPTION:Uploader: ToonsHub (file 16)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 16)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1682,11 +1632,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261108T083000Z
-DTEND:20261108T084500Z
+DTEND:20261108T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 05
-DESCRIPTION:Uploader: ToonsHub (file 17)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 17)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1696,11 +1646,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261115T083000Z
-DTEND:20261115T084500Z
+DTEND:20261115T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 06
-DESCRIPTION:Uploader: ToonsHub (file 18)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 18)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1710,11 +1660,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261122T083000Z
-DTEND:20261122T084500Z
+DTEND:20261122T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 07
-DESCRIPTION:Uploader: ToonsHub (file 19)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 19)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1724,11 +1674,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261129T083000Z
-DTEND:20261129T084500Z
+DTEND:20261129T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 08
-DESCRIPTION:Uploader: ToonsHub (file 20)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 20)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1738,11 +1688,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261206T083000Z
-DTEND:20261206T084500Z
+DTEND:20261206T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 09
-DESCRIPTION:Uploader: ToonsHub (file 21)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 21)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1752,11 +1702,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261213T083000Z
-DTEND:20261213T084500Z
+DTEND:20261213T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 10
-DESCRIPTION:Uploader: ToonsHub (file 22)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 22)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1766,11 +1716,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261220T083000Z
-DTEND:20261220T084500Z
+DTEND:20261220T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 11
-DESCRIPTION:Uploader: ToonsHub (file 23)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 23)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1780,11 +1730,11 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64503-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261227T083000Z
-DTEND:20261227T084500Z
+DTEND:20261227T094500Z
 SUMMARY:Yozakura-san Chi no Daisakusen 2nd Season Part 2 - Episode 12
-DESCRIPTION:Uploader: ToonsHub (file 24)\nUsually out 12:30-12:45 UAE time\
+DESCRIPTION:Uploader: ToonsHub (file 24)\nUsually out 12:30-13:45 UAE time\
  , from recent Nyaa post times\nEpisode count not on MAL yet\; list runs to
   12 until it is\nDisney+\, not on SubsPlease. ToonsHub 1080p AVC\, files n
  amed 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1
@@ -1794,7 +1744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep1@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261009T160347Z
 DTEND:20261009T161347Z
 SUMMARY:Hotaru no Yomeiri - Episode 01
@@ -1805,18 +1755,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep2@ali-anime-calendar
-DTSTAMP:20261013T090305Z
-DTSTART:20261016T160000Z
-DTEND:20261016T161000Z
+DTSTAMP:20261019T055646Z
+DTSTART:20261016T160348Z
+DTEND:20261016T161348Z
 SUMMARY:Hotaru no Yomeiri - Episode 02
-DESCRIPTION:Uploader: SubsPlease (file 02)\nUsually out 20:00-20:10 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/63293
+DESCRIPTION:Uploader: SubsPlease (file 02)\nReleased Fri 16 Oct 20:03 UAE t
+ ime\nMAL: https://myanimelist.net/anime/63293
 URL:https://myanimelist.net/anime/63293
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep3@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261023T160000Z
 DTEND:20261023T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 03
@@ -1827,7 +1777,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep4@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261030T160000Z
 DTEND:20261030T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 04
@@ -1838,7 +1788,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep5@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261106T160000Z
 DTEND:20261106T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 05
@@ -1849,7 +1799,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep6@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261113T160000Z
 DTEND:20261113T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 06
@@ -1860,7 +1810,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep7@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261120T160000Z
 DTEND:20261120T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 07
@@ -1871,7 +1821,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep8@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261127T160000Z
 DTEND:20261127T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 08
@@ -1882,7 +1832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep9@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261204T160000Z
 DTEND:20261204T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 09
@@ -1893,7 +1843,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep10@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261211T160000Z
 DTEND:20261211T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 10
@@ -1904,7 +1854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep11@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261218T160000Z
 DTEND:20261218T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 11
@@ -1915,7 +1865,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep12@ali-anime-calendar
-DTSTAMP:20261013T090305Z
+DTSTAMP:20261019T055646Z
 DTSTART:20261225T160000Z
 DTEND:20261225T161000Z
 SUMMARY:Hotaru no Yomeiri - Episode 12 (Final)

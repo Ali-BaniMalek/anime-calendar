@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-10-13",
+  "updated": "2026-10-19",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto 3rd Season",
@@ -12,15 +12,16 @@
       "nyaa_query": "[SubsPlease] Kusuriya no Hitorigoto 1080p",
       "file_offset": 48,
       "total_episodes": 12,
-      "window": "15:00-16:20",
-      "duration_minutes": 80,
+      "window": "15:00-15:15",
+      "duration_minutes": 15,
       "released": {
         "1": "2026-10-02T16:16:30Z",
-        "2": "2026-10-09T15:01:52Z"
+        "2": "2026-10-09T15:01:52Z",
+        "3": "2026-10-16T15:01:50Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-16T15:00:00Z"
+        "episode": 4,
+        "utc": "2026-10-23T15:00:00Z"
       }
     },
     {
@@ -35,11 +36,12 @@
       "duration_minutes": 10,
       "released": {
         "1": "2026-10-03T15:07:31Z",
-        "2": "2026-10-10T15:04:11Z"
+        "2": "2026-10-10T15:04:11Z",
+        "3": "2026-10-17T15:04:20Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-17T15:00:00Z"
+        "episode": 4,
+        "utc": "2026-10-24T15:00:00Z"
       }
     },
     {
@@ -47,17 +49,18 @@
       "mal_id": 53913,
       "uploader": "SubsPlease",
       "nyaa_query": "[SubsPlease] Tensei Shitara Ken Deshita S2 1080p",
-      "total_episodes": null,
+      "total_episodes": 12,
       "horizon": 12,
       "window": "15:30-15:45",
       "duration_minutes": 15,
       "released": {
         "1": "2026-09-30T19:06:14Z",
-        "2": "2026-10-07T15:34:37Z"
+        "2": "2026-10-07T15:34:37Z",
+        "3": "2026-10-14T15:34:51Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-14T15:30:00Z"
+        "episode": 4,
+        "utc": "2026-10-21T15:30:00Z"
       }
     },
     {
@@ -73,11 +76,12 @@
       "released": {
         "1": "2026-09-27T15:09:01Z",
         "2": "2026-10-04T15:02:09Z",
-        "3": "2026-10-11T15:02:13Z"
+        "3": "2026-10-11T15:02:13Z",
+        "4": "2026-10-18T15:02:09Z"
       },
       "slot": {
-        "episode": 4,
-        "utc": "2026-10-18T15:00:00Z"
+        "episode": 5,
+        "utc": "2026-10-25T15:00:00Z"
       }
     },
     {
@@ -92,11 +96,12 @@
       "released": {
         "1": "2026-09-27T14:32:10Z",
         "2": "2026-10-04T14:33:29Z",
-        "3": "2026-10-11T14:36:26Z"
+        "3": "2026-10-11T14:36:26Z",
+        "4": "2026-10-18T14:35:23Z"
       },
       "slot": {
-        "episode": 4,
-        "utc": "2026-10-18T14:30:00Z"
+        "episode": 5,
+        "utc": "2026-10-25T14:30:00Z"
       }
     },
     {
@@ -112,11 +117,12 @@
       "released": {
         "1": "2026-09-26T13:37:31Z",
         "2": "2026-10-03T13:32:24Z",
-        "3": "2026-10-10T13:32:07Z"
+        "3": "2026-10-10T13:32:07Z",
+        "4": "2026-10-17T13:32:04Z"
       },
       "slot": {
-        "episode": 4,
-        "utc": "2026-10-17T13:30:00Z"
+        "episode": 5,
+        "utc": "2026-10-24T13:30:00Z"
       }
     },
     {
@@ -128,11 +134,12 @@
       "window": "12:30-12:45",
       "duration_minutes": 15,
       "released": {
-        "1": "2026-10-05T12:31:56Z"
+        "1": "2026-10-05T12:31:56Z",
+        "2": "2026-10-12T12:31:58Z"
       },
       "slot": {
-        "episode": 2,
-        "utc": "2026-10-12T12:30:00Z"
+        "episode": 3,
+        "utc": "2026-10-19T12:30:00Z"
       }
     },
     {
@@ -141,16 +148,19 @@
       "uploader": "SubsPlease",
       "nyaa_query": "[SubsPlease] Chitose-kun 1080p",
       "pending": false,
-      "total_episodes": null,
+      "total_episodes": 11,
       "horizon": 12,
       "window": "16:30-16:35",
       "duration_minutes": 5,
-      "released": {},
-      "slot": {
-        "episode": 1,
-        "utc": "2026-10-13T16:30:00Z"
+      "released": {
+        "1": "2026-10-13T16:32:09Z"
       },
-      "note": "Starts Tue 13 Oct (MAL). Time is Part 1's SubsPlease slot until episode 1 is out; SubsPlease file numbering for Part 2 not known yet."
+      "slot": {
+        "episode": 2,
+        "utc": "2026-10-20T16:30:00Z"
+      },
+      "note": "SubsPlease numbers Part 2 on from Part 1 (file 14 = Part 2 episode 1).",
+      "file_offset": 13
     },
     {
       "title": "One Piece",
@@ -178,16 +188,17 @@
       "uploader": "Erai-raws",
       "nyaa_query": "Erai-raws Ao no Hako Season 2 1080p AVC",
       "total_episodes": 12,
-      "window": "15:10-16:10",
+      "window": "08:10-09:10",
       "duration_minutes": 60,
-      "note": "Netflix. Episode 1 came at 21:29 UTC, episode 2 at 15:13 UTC; slot follows the latest.",
+      "note": "Netflix. Post time has moved around (21:29, 15:13, 08:11 UTC); slot follows the latest.",
       "released": {
         "1": "2026-10-04T21:29:08Z",
-        "2": "2026-10-11T15:13:07Z"
+        "2": "2026-10-11T15:13:07Z",
+        "3": "2026-10-18T08:11:15Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-18T15:10:00Z"
+        "episode": 4,
+        "utc": "2026-10-25T08:10:00Z"
       }
     },
     {
@@ -202,11 +213,12 @@
       "note": "Netflix.",
       "released": {
         "1": "2026-10-02T01:40:20Z",
-        "2": "2026-10-08T17:03:59Z"
+        "2": "2026-10-08T17:03:59Z",
+        "3": "2026-10-15T15:40:18Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-15T15:30:00Z"
+        "episode": 4,
+        "utc": "2026-10-22T15:30:00Z"
       }
     },
     {
@@ -216,16 +228,17 @@
       "nyaa_query": "Erai-raws Ranma 1080p AVC",
       "total_episodes": null,
       "horizon": 12,
-      "window": "17:05-17:25",
-      "duration_minutes": 20,
+      "window": "17:05-17:45",
+      "duration_minutes": 40,
       "note": "Netflix.",
       "released": {
         "1": "2026-10-03T17:14:09Z",
-        "2": "2026-10-10T17:20:25Z"
+        "2": "2026-10-10T17:20:25Z",
+        "3": "2026-10-17T17:42:04Z"
       },
       "slot": {
-        "episode": 3,
-        "utc": "2026-10-17T17:05:00Z"
+        "episode": 4,
+        "utc": "2026-10-24T17:05:00Z"
       }
     },
     {
@@ -235,15 +248,16 @@
       "nyaa_query": "ToonsHub Mission Yozakura Family 1080p",
       "total_episodes": null,
       "horizon": 12,
-      "window": "08:30-08:45",
-      "duration_minutes": 15,
+      "window": "08:30-09:45",
+      "duration_minutes": 75,
       "note": "Disney+, not on SubsPlease. ToonsHub 1080p AVC, files named 'Mission Yozakura Family S02E13' (S02 numbering continues from Part 1).",
       "released": {
-        "1": "2026-10-11T08:34:29Z"
+        "1": "2026-10-11T08:34:29Z",
+        "2": "2026-10-18T09:41:06Z"
       },
       "slot": {
-        "episode": 2,
-        "utc": "2026-10-18T08:30:00Z"
+        "episode": 3,
+        "utc": "2026-10-25T08:30:00Z"
       },
       "file_offset": 12
     },
@@ -256,11 +270,12 @@
       "window": "16:00-16:10",
       "duration_minutes": 10,
       "released": {
-        "1": "2026-10-09T16:03:47Z"
+        "1": "2026-10-09T16:03:47Z",
+        "2": "2026-10-16T16:03:48Z"
       },
       "slot": {
-        "episode": 2,
-        "utc": "2026-10-16T16:00:00Z"
+        "episode": 3,
+        "utc": "2026-10-23T16:00:00Z"
       }
     }
   ]
