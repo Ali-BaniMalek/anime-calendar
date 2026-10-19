@@ -277,6 +277,23 @@
         "episode": 3,
         "utc": "2026-10-23T16:00:00Z"
       }
+    },
+    {
+      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "mal_id": 60636,
+      "uploader": "SubsPlease",
+      "nyaa_query": "[SubsPlease] Bleach - Sennen Kessen Hen 1080p",
+      "file_offset": 40,
+      "first_episode": 9,
+      "total_episodes": 10,
+      "window": "15:00-17:05",
+      "duration_minutes": 125,
+      "note": "SubsPlease numbers it on from earlier cours (file 49 = episode 9). Episodes 9-10 were delayed from September to 19 and 26 Oct (TV Tokyo); time is the old Saturday slot until episode 9 is out.",
+      "released": {},
+      "slot": {
+        "episode": 9,
+        "utc": "2026-10-19T15:00:00Z"
+      }
     }
   ]
 }
