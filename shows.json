@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto 3rd Season",
@@ -293,6 +293,33 @@
       "slot": {
         "episode": 9,
         "utc": "2026-10-19T15:00:00Z"
+      }
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2",
+      "mal_id": 61990,
+      "uploader": "Erai-raws",
+      "nyaa_query": "Erai-raws Cyberpunk Edgerunners 2 1080p AVC",
+      "total_episodes": 10,
+      "window": "07:35-07:45",
+      "duration_minutes": 10,
+      "per_drop": 10,
+      "note": "Netflix, whole season dropped at once. Batch: https://nyaa.si/view/2176429",
+      "released": {
+        "1": "2026-10-20T07:38:09Z",
+        "2": "2026-10-20T07:38:09Z",
+        "3": "2026-10-20T07:38:09Z",
+        "4": "2026-10-20T07:38:09Z",
+        "5": "2026-10-20T07:38:09Z",
+        "6": "2026-10-20T07:38:09Z",
+        "7": "2026-10-20T07:38:09Z",
+        "8": "2026-10-20T07:38:09Z",
+        "9": "2026-10-20T07:38:09Z",
+        "10": "2026-10-20T07:38:09Z"
+      },
+      "slot": {
+        "episode": 1,
+        "utc": "2026-10-20T07:35:00Z"
       }
     }
   ]
