@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -59,7 +59,6 @@
       "uploader": "SubsPlease",
       "nyaa_query": "[SubsPlease] Tensei Shitara Ken Deshita S2 1080p",
       "total_episodes": 12,
-      "horizon": 12,
       "window": "15:30-15:40",
       "duration_minutes": 10,
       "released": {
@@ -82,8 +81,7 @@
       "uploader": "SubsPlease",
       "nyaa_query": "[SubsPlease] Tensei Kizoku Kantei Skill 1080p",
       "file_offset": 24,
-      "total_episodes": null,
-      "horizon": 12,
+      "total_episodes": 12,
       "window": "15:00-15:05",
       "duration_minutes": 5,
       "released": {
@@ -163,11 +161,12 @@
         "2": "2026-10-12T12:31:58Z",
         "3": "2026-10-19T12:32:02Z",
         "4": "2026-10-26T12:31:54Z",
-        "5": "2026-11-02T12:32:10Z"
+        "5": "2026-11-02T12:32:10Z",
+        "6": "2026-11-09T12:32:08Z"
       },
       "slot": {
-        "episode": 6,
-        "utc": "2026-11-09T12:30:00Z"
+        "episode": 7,
+        "utc": "2026-11-16T12:30:00Z"
       }
     },
     {
@@ -178,7 +177,6 @@
       "nyaa_query": "[SubsPlease] Chitose-kun 1080p",
       "pending": false,
       "total_episodes": 11,
-      "horizon": 12,
       "window": "16:30-16:35",
       "duration_minutes": 5,
       "released": {
@@ -245,12 +243,12 @@
       "mal_title": "Koori no Jouheki 2nd Season",
       "mal_id": 64534,
       "uploader": "Erai-raws",
-      "nyaa_query": "Erai-raws Koori no Jouheki 1080p AVC",
+      "nyaa_query": "Erai-raws Koori no Jouheki 2nd Season 1080p AVC",
       "total_episodes": null,
       "horizon": 12,
-      "window": "15:40-20:50",
-      "duration_minutes": 310,
-      "note": "Netflix. Erai-raws post time varies a lot (15:40-20:48 UTC).",
+      "window": "15:40-17:45",
+      "duration_minutes": 125,
+      "note": "Netflix. Erai-raws usually posts 15:40-17:45 UTC; episode 4 came late, at 20:48.",
       "released": {
         "1": "2026-10-02T01:40:20Z",
         "2": "2026-10-08T17:03:59Z",
@@ -269,12 +267,12 @@
       "mal_title": "Ranma ½ (2024) 3rd Season",
       "mal_id": 63801,
       "uploader": "Erai-raws",
-      "nyaa_query": "Erai-raws Ranma 1080p AVC",
+      "nyaa_query": "Erai-raws Ranma 3rd Season 1080p AVC",
       "total_episodes": null,
       "horizon": 12,
-      "window": "17:05-21:40",
-      "duration_minutes": 275,
-      "note": "Netflix. Erai-raws post time varies a lot (17:06-21:36 UTC).",
+      "window": "17:05-19:00",
+      "duration_minutes": 115,
+      "note": "Netflix. Erai-raws usually posts 17:05-19:00 UTC; episode 4 came late, at 21:36.",
       "released": {
         "1": "2026-10-03T17:14:09Z",
         "2": "2026-10-10T17:20:25Z",
