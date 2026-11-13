@@ -100,6 +100,8 @@ def check(data, now):
         if show["mal_id"] in seen:
             warn("mal_id is used twice")
         seen.add(show["mal_id"])
+        if show.get("dropped"):
+            continue  # Ali dropped it: no events, nothing to check
         if (re.search(r"\d(st|nd|rd|th) Season| (II|III|IV)$", title)
                 or re.search(r"(?<! -) Season \d", title)):
             warn("title is not in the '<series> - Season N' format")
@@ -159,7 +161,7 @@ def upcoming(data, now, days=7):
     """Projected episodes for the coming week, soonest first."""
     rows = []
     for show in data["shows"]:
-        if show.get("pending"):
+        if show.get("pending") or show.get("dropped"):
             continue
         for ep, dt, done in episodes(show):
             if not done and now - timedelta(days=1) <= dt < now + timedelta(days=days):
@@ -195,6 +197,8 @@ def build(data):
     for show in data["shows"]:
         if show.get("pending"):
             continue  # season not started yet; the weekly refresh adds it
+        if show.get("dropped"):
+            continue  # Ali dropped it; the entry stays as a record until it is pruned
         title = show["title"]
         total = show.get("total_episodes")
         offset = show.get("file_offset", 0)

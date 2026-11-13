@@ -32,6 +32,11 @@ Once MAL shows a show's premiere day and broadcast time (the "Aired" and "Broadc
 ## Long runners
 Shows marked `long_runner` (One Piece) stay in `shows.json` permanently, whether or not they're on the season's watchlist. During a hiatus they're `pending` (hidden from the feed); each refresh checks Nyaa and news for the return, then sets `slot` and turns `pending` off. Keep `horizon` about 12 episodes ahead.
 
+## Dropped shows
+When Ali drops a show, it gets `"dropped": "YYYY-MM-DD"` and disappears from the feed; the entry stays as a record (so it isn't added back) and is pruned with the finished shows. Ali drops a show with the Drop button on his watch checklist page on the NAS, which also marks it Dropped on his MAL list, or by marking it Dropped on MAL himself. The calendar can't see the NAS, so MAL is the link: step 5 checks his Dropped list.
+
+Shows with `"download_only": true` (downloaded and tracked, but not watched, like One Punch Man) are the exception: Ali may mark those Dropped on MAL and still want them, so they're dropped only when the MAL entry also carries the tag `nas-dropped` (set by the Drop button) or when Ali asks.
+
 ## Weekly refresh
 Mondays. Sources are each show's Nyaa RSS feed (`https://nyaa.si/?page=rss&q=<nyaa_query>&s=id&o=desc`; without `&s=id&o=desc` WebFetch can return a cached, week-old feed) and its MAL page. From a cloud session both only work through WebFetch, and Nyaa refuses parallel requests: fetch the feeds one at a time and retry a refused one once at the end.
 
@@ -39,7 +44,7 @@ Mondays. Sources are each show's Nyaa RSS feed (`https://nyaa.si/?page=rss&q=<ny
 2. **Move the slot** to the next unreleased episode: 7 days after the last release, at the window start.
 3. **Break weeks.** If an episode didn't come in its week, add that date to `skip` and leave it there. Then look ahead: check the show's MAL forum and news for a break announced for the coming week and add its date to `skip` before it happens. Netflix shows and the last week of December are the usual ones.
 4. **Re-derive the window** from the last 3 regular posts (rule above) and set `duration_minutes` to match.
-5. **Check MAL** for every show. When MAL gets an episode count, set `total_episodes` and drop `horizon`. While it has none, keep `horizon` more than 2 episodes ahead of the last release, or set it to the finale once that is announced. For `pending` shows, check whether MAL now has the premiere day and broadcast time (see Before episode 1), and flip `pending` off when it does or when episode 1 appears. When episode 1 is out, compare its real release name with `nyaa_query` and `file_offset` and fix them if the uploader named or numbered it differently.
+5. **Check MAL** for every show. When MAL gets an episode count, set `total_episodes` and drop `horizon`. While it has none, keep `horizon` more than 2 episodes ahead of the last release, or set it to the finale once that is announced. For `pending` shows, check whether MAL now has the premiere day and broadcast time (see Before episode 1), and flip `pending` off when it does or when episode 1 appears. When episode 1 is out, compare its real release name with `nyaa_query` and `file_offset` and fix them if the uploader named or numbered it differently. Then check Ali's Dropped list (`https://myanimelist.net/animelist/<user>/load.json?status=4`) and mark every calendar show whose `mal_id` is on it as `dropped` (see Dropped shows; `download_only` shows need the `nas-dropped` tag).
 6. **Long runners** on hiatus: check Nyaa and news for the return (see above).
 7. **Build and check.** Set `updated` and run `python3 build_ics.py`. It should end with `0 warning(s)`; a warning may stay only when something real explains it, such as an episode that is late today. Read the "Next 7 days" list it prints: every airing show should be there once, on its usual day.
 8. **Publish.** Commit `shows.json` and `anime-releases.ics` to `main` and push. A thread that works on its own branch opens a pull request to `main` and merges it itself. Then copy the changed files to the project mirror (`/mnt/project-files/calendar/`).
