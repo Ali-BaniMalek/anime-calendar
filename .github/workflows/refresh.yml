@@ -1,0 +1,86 @@
+name: Refresh the calendar
+
+# Every hour: log new episodes into shows.json (auto_refresh.py), rebuild the feed
+# and commit when something changed. Also rebuilds the feed when shows.json or a
+# script is pushed to main. See "Automatic refresh" in README.md.
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      everything:
+        description: "Read every airing show's feed, not only the ones that are due"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - shows.json
+      - build_ics.py
+      - auto_refresh.py
+      - test_auto_refresh.py
+      - .github/workflows/refresh.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-calendar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Test the scripts
+        run: python3 -m unittest -q
+
+      - name: Log new episodes
+        if: github.event_name != 'push'
+        env:
+          EVERYTHING: ${{ inputs.everything && '--all' || '' }}
+        run: python3 auto_refresh.py $EVERYTHING --notes "$RUNNER_TEMP/changes.txt"
+
+      - name: Build the feed
+        run: python3 build_ics.py | tee "$RUNNER_TEMP/build.txt"
+
+      - name: Publish
+        run: |
+          changes="$RUNNER_TEMP/changes.txt"
+          touch "$changes"
+          {
+            echo "### Changes"
+            if [ -s "$changes" ]; then sed 's/^/- /' "$changes"; else echo "None."; fi
+            echo
+            echo "### Build"
+            echo '```'
+            cat "$RUNNER_TEMP/build.txt"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if git diff --quiet -- shows.json anime-releases.ics; then
+            echo "Nothing to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add shows.json anime-releases.ics
+          if [ -s "$changes" ]; then
+            { echo "Automatic refresh: $(wc -l < "$changes" | tr -d ' ') change(s)"; echo; cat "$changes"; } > "$RUNNER_TEMP/message.txt"
+          else
+            echo "Rebuild the feed" > "$RUNNER_TEMP/message.txt"
+          fi
+          before="$(git rev-parse HEAD)"
+          git commit -q -F "$RUNNER_TEMP/message.txt"
+          if git push; then exit 0; fi
+          git fetch -q origin "$GITHUB_REF_NAME"
+          if [ "$(git rev-parse FETCH_HEAD)" = "$before" ]; then
+            echo "::error::The push was refused although the branch had not moved."
+            exit 1
+          fi
+          # The branch moved while this ran. Nothing is lost: the next run starts from the new commit.
+          echo "::notice::The branch changed during the run; the next run will redo this."

@@ -24,12 +24,14 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
-SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "shows.json"
-OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else HERE / "anime-releases.ics"
 
 
 def parse(ts):
-    return datetime.fromisoformat(ts.replace("Z", "+00:00")).astimezone(timezone.utc)
+    dt = datetime.fromisoformat(ts.replace("Z", "+00:00"))
+    if dt.tzinfo is None:
+        # A bare date ("skip", "updated") is a UTC date, whatever zone the machine is in.
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
 
 def fmt(dt):
@@ -182,7 +184,9 @@ def shift_window(window, tz):
 def build(data):
     tz = ZoneInfo(data.get("display_tz", "UTC"))
     tz_label = data.get("display_tz_label", "UTC")
-    now = fmt(datetime.now(timezone.utc))
+    # DTSTAMP comes from "updated", not from the clock: the same shows.json always
+    # builds the same file, so a rebuild with nothing new changes nothing.
+    stamp = fmt(parse(data["updated"])) if data.get("updated") else fmt(datetime.now(timezone.utc))
     name = data.get("calendar_name", "Anime Releases")
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0",
@@ -230,7 +234,7 @@ def build(data):
             lines += [
                 "BEGIN:VEVENT",
                 f"UID:mal{show['mal_id']}-ep{ep}@ali-anime-calendar",
-                f"DTSTAMP:{now}",
+                f"DTSTAMP:{stamp}",
                 f"DTSTART:{fmt(start)}",
                 f"DTEND:{fmt(start + timedelta(minutes=minutes))}",
                 f"SUMMARY:{esc(summary)}",
@@ -243,11 +247,13 @@ def build(data):
     return "\r\n".join(fold(l) for l in lines) + "\r\n"
 
 
-if __name__ == "__main__":
-    data = json.loads(SRC.read_text(encoding="utf-8"))
+def main(argv):
+    src = Path(argv[1]) if len(argv) > 1 else HERE / "shows.json"
+    out = Path(argv[2]) if len(argv) > 2 else HERE / "anime-releases.ics"
+    data = json.loads(src.read_text(encoding="utf-8"))
     text = build(data)
-    OUT.write_text(text, encoding="utf-8", newline="")
-    print(f"Wrote {OUT} with {text.count('BEGIN:VEVENT')} events")
+    out.write_text(text, encoding="utf-8", newline="")
+    print(f"Wrote {out} with {text.count('BEGIN:VEVENT')} events")
 
     now = datetime.now(timezone.utc)
     tz = ZoneInfo(data.get("display_tz", "UTC"))
@@ -258,3 +264,8 @@ if __name__ == "__main__":
     print(f"\n{len(problems)} warning(s)")
     for line in problems:
         print(f"  WARNING: {line}")
+    return problems
+
+
+if __name__ == "__main__":
+    main(sys.argv)
