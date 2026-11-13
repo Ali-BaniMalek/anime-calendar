@@ -20,7 +20,14 @@
 - `slot`: next expected episode and its expected UTC start; later episodes are +7 days (or `per_drop` per week for batch drops).
 - `skip`: dates of break weeks (the day the episode would have come). A break on or after the slot's date pushes that episode and the rest back a week. Earlier ones stay as a record and change nothing, because the slot was already set after them.
 - `total_episodes`: MAL's count, or null. Null means the list runs to `horizon` and says the count is unconfirmed.
-- `pending`: show is on the watchlist but hasn't started; left out of the feed.
+- `pending`: show is approved but its premiere day or broadcast time isn't announced yet; left out of the feed. `pending_note` says what is still unknown, and its `slot` is a placeholder (the build warns once that date has passed).
+
+## Before episode 1
+Once MAL shows a show's premiere day and broadcast time (the "Aired" and "Broadcast" lines), turn `pending` off so the premiere is on the calendar in advance:
+- `slot`: episode 1 on the premiere day, at the broadcast time converted from JST to UTC (JST is UTC+9). If MAL's background says it streams early (Overgeared, Tensei shitara Ken deshita II), use the streaming day instead.
+- `window`: from the broadcast time to 2 hours after, `duration_minutes` 120. SubsPlease and Erai-raws usually post 0 to 90 minutes after the broadcast.
+- Until episode 1 is logged, its events say "Expected ... Estimated from the announced broadcast; episode 1 is not out yet". After that the weekly refresh measures the real window as usual (with fewer than 3 posts, use the ones there are).
+- A Netflix drop of a whole season (`per_drop`) works the same way: the slot is the announced day, and the window is replaced by the real post time once it is out.
 
 ## Long runners
 Shows marked `long_runner` (One Piece) stay in `shows.json` permanently, whether or not they're on the season's watchlist. During a hiatus they're `pending` (hidden from the feed); each refresh checks Nyaa and news for the return, then sets `slot` and turns `pending` off. Keep `horizon` about 12 episodes ahead.
@@ -32,12 +39,27 @@ Mondays. Sources are each show's Nyaa RSS feed (`https://nyaa.si/?page=rss&q=<ny
 2. **Move the slot** to the next unreleased episode: 7 days after the last release, at the window start.
 3. **Break weeks.** If an episode didn't come in its week, add that date to `skip` and leave it there. Then look ahead: check the show's MAL forum and news for a break announced for the coming week and add its date to `skip` before it happens. Netflix shows and the last week of December are the usual ones.
 4. **Re-derive the window** from the last 3 regular posts (rule above) and set `duration_minutes` to match.
-5. **Check MAL** for every show. When MAL gets an episode count, set `total_episodes` and drop `horizon`. While it has none, keep `horizon` more than 2 episodes ahead of the last release, or set it to the finale once that is announced. Flip `pending` off when episode 1 appears.
+5. **Check MAL** for every show. When MAL gets an episode count, set `total_episodes` and drop `horizon`. While it has none, keep `horizon` more than 2 episodes ahead of the last release, or set it to the finale once that is announced. For `pending` shows, check whether MAL now has the premiere day and broadcast time (see Before episode 1), and flip `pending` off when it does or when episode 1 appears. When episode 1 is out, compare its real release name with `nyaa_query` and `file_offset` and fix them if the uploader named or numbered it differently.
 6. **Long runners** on hiatus: check Nyaa and news for the return (see above).
 7. **Build and check.** Set `updated` and run `python3 build_ics.py`. It should end with `0 warning(s)`; a warning may stay only when something real explains it, such as an episode that is late today. Read the "Next 7 days" list it prints: every airing show should be there once, on its usual day.
-8. **Publish.** Commit `shows.json` and `anime-releases.ics` to `main` and push, then copy the changed files to the project mirror (`/mnt/project-files/calendar/`).
+8. **Publish.** Commit `shows.json` and `anime-releases.ics` to `main` and push. A thread that works on its own branch opens a pull request to `main` and merges it itself. Then copy the changed files to the project mirror (`/mnt/project-files/calendar/`).
 
 Finished shows stay until the season after next, so past episodes remain visible.
 
 ## New season
-The seasonal watchlist reminder (20 Mar/Jun/Sep/Dec) drafts the next season's list with uploaders. Each approved show becomes a `shows.json` entry (MAL id, uploader, `pending: true`); the refresh fills in times once episode 1 is out.
+The changeover runs over about three weeks, not one day: the last finales of the old season and the first episodes of the new one overlap.
+
+1. **Watchlist day** (Ali's reminder on 20 Mar/Jun/Sep/Dec). Each show Ali approves becomes a `shows.json` entry: MAL id, `title` in the format above, uploader, `nyaa_query`, `file_offset` if the uploader is likely to continue an earlier part's numbering, `pending: true` and a `pending_note`. Turn it on early once MAL has the premiere day and broadcast time (see Before episode 1). On the same day:
+   - **Carry-overs.** For every current show without a MAL episode count, check whether it runs into the new season. A carry-over keeps its entry unchanged.
+   - **Sequels.** Open the MAL page of every show that ends this season and follow its "Sequel" link. A new part or season is a separate MAL entry (Kusuriya no Hitorigoto 3rd Season Part 2 in April 2027) and gets its own entry once it is announced.
+   - **Prune.** Remove the shows that finished two seasons ago (finished shows stay until the season after next).
+   - Long runners stay (One Piece).
+2. **Premiere weeks.** The Monday refresh turns each show on when its episode 1 appears and checks its release name (step 5).
+3. **After the last finales,** usually in the first week of the new season, check that every old show has its last episode logged and marked `(Final)`.
+
+## Research from a cloud session
+From the cloud, `curl` to MAL, Nyaa, Jikan and AniList is blocked; WebFetch reaches MAL, Nyaa RSS and Wikipedia.
+- MAL's season page (`myanimelist.net/anime/season/<year>/<season>`) is cut off after about 44 entries, and its ONA section is lost. Cross-check with Wikipedia's "<year> in anime" page (loads fully) and `animeschedule.net/seasons/<season>-<year>`. LiveChart loads only partly; AniList and aniSearch fail; MAL's advanced search shows no dates.
+- A MAL list can be read newest air date first with `myanimelist.net/animelist/<user>/load.json?status=7&order=14&offset=N`: about 65 entries per response, so step `offset` by 60. Dates there are DD-MM-YY.
+- MAL anime pages give the premiere day ("Aired"), the broadcast day and JST time ("Broadcast") and the sequel/prequel links. Streaming services often appear only close to the premiere.
+- `subsplease.org/schedule` is built by script and comes back empty.
