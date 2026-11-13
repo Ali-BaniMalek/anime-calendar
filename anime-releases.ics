@@ -78,11 +78,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mal61987-ep7@ali-anime-calendar
 DTSTAMP:20261113T000000Z
-DTSTART:20261113T150000Z
-DTEND:20261113T154500Z
+DTSTART:20261113T150151Z
+DTEND:20261113T154651Z
 SUMMARY:Kusuriya no Hitorigoto - Season 3 - Episode 07
-DESCRIPTION:Uploader: SubsPlease (file 55)\nUsually out 19:00-19:45 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/61987
+DESCRIPTION:Uploader: SubsPlease (file 55)\nReleased Fri 13 Nov 19:01 UAE t
+ ime\nMAL: https://myanimelist.net/anime/61987
 URL:https://myanimelist.net/anime/61987
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -366,11 +366,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mal53913-ep7@ali-anime-calendar
 DTSTAMP:20261113T000000Z
-DTSTART:20261111T153000Z
-DTEND:20261111T154000Z
+DTSTART:20261111T153243Z
+DTEND:20261111T154243Z
 SUMMARY:Tensei shitara Ken deshita - Season 2 - Episode 07
-DESCRIPTION:Uploader: SubsPlease (file 07)\nUsually out 19:30-19:40 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/53913
+DESCRIPTION:Uploader: SubsPlease (file 07)\nReleased Wed 11 Nov 19:32 UAE t
+ ime\nMAL: https://myanimelist.net/anime/53913
 URL:https://myanimelist.net/anime/53913
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1057,12 +1057,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mal62484-ep5@ali-anime-calendar
 DTSTAMP:20261113T000000Z
-DTSTART:20261110T163000Z
-DTEND:20261110T163500Z
+DTSTART:20261110T163209Z
+DTEND:20261110T163709Z
 SUMMARY:Chitose-kun wa Ramune Bin no Naka - Part 2 - Episode 05
-DESCRIPTION:Uploader: SubsPlease (file 18)\nUsually out 20:30-20:35 UAE tim
- e\, from recent Nyaa post times\nSubsPlease numbers Part 2 on from Part 1 
- (file 14 = Part 2 episode 1).\nMAL: https://myanimelist.net/anime/62484
+DESCRIPTION:Uploader: SubsPlease (file 18)\nReleased Tue 10 Nov 20:32 UAE t
+ ime\nSubsPlease numbers Part 2 on from Part 1 (file 14 = Part 2 episode 1)
+ .\nMAL: https://myanimelist.net/anime/62484
 URL:https://myanimelist.net/anime/62484
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1289,9 +1289,8 @@ DTSTART:20261002T014020Z
 DTEND:20261002T034520Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 01
 DESCRIPTION:Uploader: Erai-raws (file 01)\nReleased Fri 02 Oct 05:40 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1302,9 +1301,8 @@ DTSTART:20261008T170359Z
 DTEND:20261008T190859Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 02
 DESCRIPTION:Uploader: Erai-raws (file 02)\nReleased Thu 08 Oct 21:03 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1315,9 +1313,8 @@ DTSTART:20261015T154018Z
 DTEND:20261015T174518Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 03
 DESCRIPTION:Uploader: Erai-raws (file 03)\nReleased Thu 15 Oct 19:40 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1328,9 +1325,8 @@ DTSTART:20261022T204844Z
 DTEND:20261022T225344Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 04
 DESCRIPTION:Uploader: Erai-raws (file 04)\nReleased Fri 23 Oct 00:48 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1341,9 +1337,8 @@ DTSTART:20261029T174258Z
 DTEND:20261029T194758Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 05
 DESCRIPTION:Uploader: Erai-raws (file 05)\nReleased Thu 29 Oct 21:42 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1354,22 +1349,20 @@ DTSTART:20261105T154124Z
 DTEND:20261105T174624Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 06
 DESCRIPTION:Uploader: Erai-raws (file 06)\nReleased Thu 05 Nov 19:41 UAE ti
- me\nEpisode count not on MAL yet\; list runs to 12 until it is\nNetflix. E
- rai-raws usually posts 15:40-17:45 UTC\; episode 4 came late\, at 20:48.\n
- MAL: https://myanimelist.net/anime/64534
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mal64534-ep7@ali-anime-calendar
 DTSTAMP:20261113T000000Z
-DTSTART:20261112T154000Z
-DTEND:20261112T174500Z
+DTSTART:20261112T155641Z
+DTEND:20261112T180141Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 07
-DESCRIPTION:Uploader: Erai-raws (file 07)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+DESCRIPTION:Uploader: Erai-raws (file 07)\nReleased Thu 12 Nov 19:56 UAE ti
+ me\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episode 4 came late
+ \, at 20:48.\nMAL: https://myanimelist.net/anime/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1380,9 +1373,9 @@ DTSTART:20261119T154000Z
 DTEND:20261119T174500Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 08
 DESCRIPTION:Uploader: Erai-raws (file 08)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1393,9 +1386,9 @@ DTSTART:20261126T154000Z
 DTEND:20261126T174500Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 09
 DESCRIPTION:Uploader: Erai-raws (file 09)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1406,9 +1399,9 @@ DTSTART:20261203T154000Z
 DTEND:20261203T174500Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 10
 DESCRIPTION:Uploader: Erai-raws (file 10)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1419,9 +1412,9 @@ DTSTART:20261210T154000Z
 DTEND:20261210T174500Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 11
 DESCRIPTION:Uploader: Erai-raws (file 11)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1432,9 +1425,22 @@ DTSTART:20261217T154000Z
 DTEND:20261217T174500Z
 SUMMARY:Koori no Jouheki - Season 2 - Episode 12
 DESCRIPTION:Uploader: Erai-raws (file 12)\nUsually out 19:40-21:45 UAE time
- \, from recent Nyaa post times\nEpisode count not on MAL yet\; list runs t
- o 12 until it is\nNetflix. Erai-raws usually posts 15:40-17:45 UTC\; episo
- de 4 came late\, at 20:48.\nMAL: https://myanimelist.net/anime/64534
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
+URL:https://myanimelist.net/anime/64534
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mal64534-ep13@ali-anime-calendar
+DTSTAMP:20261113T000000Z
+DTSTART:20261224T154000Z
+DTEND:20261224T174500Z
+SUMMARY:Koori no Jouheki - Season 2 - Episode 13 (Final)
+DESCRIPTION:Uploader: Erai-raws (file 13)\nUsually out 19:40-21:45 UAE time
+ \, from recent Nyaa post times\nNetflix. Erai-raws usually posts 15:40-17:
+ 45 UTC\; episode 4 came late\, at 20:48.\nMAL: https://myanimelist.net/ani
+ me/64534
 URL:https://myanimelist.net/anime/64534
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1820,11 +1826,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mal63293-ep6@ali-anime-calendar
 DTSTAMP:20261113T000000Z
-DTSTART:20261113T160000Z
-DTEND:20261113T160500Z
+DTSTART:20261113T160404Z
+DTEND:20261113T160904Z
 SUMMARY:Hotaru no Yomeiri - Episode 06
-DESCRIPTION:Uploader: SubsPlease (file 06)\nUsually out 20:00-20:05 UAE tim
- e\, from recent Nyaa post times\nMAL: https://myanimelist.net/anime/63293
+DESCRIPTION:Uploader: SubsPlease (file 06)\nReleased Fri 13 Nov 20:04 UAE t
+ ime\nMAL: https://myanimelist.net/anime/63293
 URL:https://myanimelist.net/anime/63293
 TRANSP:TRANSPARENT
 END:VEVENT
