@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-10",
+  "updated": "2026-11-13",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -378,6 +378,116 @@
       "slot": {
         "episode": 1,
         "utc": "2026-10-20T07:35:00Z"
+      }
+    },
+    {
+      "title": "Sakamoto Days - Season 2",
+      "mal_title": "Sakamoto Days 2nd Season",
+      "mal_id": 63139,
+      "uploader": "Erai-raws",
+      "nyaa_query": "Erai-raws Sakamoto Days 2nd Season 1080p AVC",
+      "pending": true,
+      "pending_note": "MAL: January 2027, day not announced. Netflix, so Erai-raws 1080p NF WEB-DL AVC. Release name is a guess from how Erai-raws names other sequels; confirm when episode 1 posts. Slot is a placeholder: Part 2 came on Mondays 20:00-20:10 UAE time.",
+      "total_episodes": null,
+      "horizon": 12,
+      "window": "16:00-16:10",
+      "duration_minutes": 10,
+      "note": "Netflix. Erai-raws 1080p NF WEB-DL AVC. For Part 2 Erai-raws re-posted every episode as a REPACK a week later.",
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-01-11T16:00:00Z"
+      }
+    },
+    {
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den - Part 2",
+      "mal_title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+      "mal_id": 65032,
+      "uploader": "SubsPlease",
+      "nyaa_query": "[SubsPlease] Futsutsuka na Akujo dewa Gozaimasu ga 1080p",
+      "pending": true,
+      "pending_note": "MAL: January 2027, day not announced. SubsPlease carried Part 1 (files 01-11, Sundays 19:47 UAE time). If SubsPlease numbers Part 2 on from Part 1 (file 12 = episode 1), keep file_offset 11; if it restarts at 01 or adds 'S2', set file_offset to 0 and fix nyaa_query.",
+      "file_offset": 11,
+      "total_episodes": null,
+      "horizon": 12,
+      "window": "15:45-15:50",
+      "duration_minutes": 5,
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-01-10T15:45:00Z"
+      }
+    },
+    {
+      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru - Season 2",
+      "mal_title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Season 2",
+      "mal_id": 56732,
+      "uploader": "SubsPlease",
+      "nyaa_query": "[SubsPlease] Sekai Saikou no Ansatsusha S2 1080p",
+      "pending": true,
+      "pending_note": "MAL: January 2027, day and streaming service not announced. SubsPlease carried season 1 in 2021 (Crunchyroll, Wednesdays 19:30 UAE time). Release name is a guess ('S2'); confirm when episode 1 posts. If it is not on SubsPlease, list the other uploaders for Ali.",
+      "total_episodes": null,
+      "horizon": 12,
+      "window": "15:30-15:35",
+      "duration_minutes": 5,
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-01-06T15:30:00Z"
+      }
+    },
+    {
+      "title": "The One Piece",
+      "mal_title": "The One Piece",
+      "mal_id": 57557,
+      "uploader": "Erai-raws",
+      "nyaa_query": "Erai-raws The One Piece 1080p AVC",
+      "pending": true,
+      "pending_note": "Ali asked for it (13 Nov). WIT Studio remake, Netflix, February 2027, all 7 episodes at once (MAL: 7 episodes, 'Feb 2027', no day yet). When the day is announced, set slot to it and turn pending off. Erai-raws release name is a guess; confirm on the day.",
+      "total_episodes": 7,
+      "per_drop": 7,
+      "window": "08:00-08:10",
+      "duration_minutes": 10,
+      "note": "Netflix, whole season dropped at once.",
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-02-01T08:00:00Z"
+      }
+    },
+    {
+      "title": "One Punch Man - Season 3 Part 2",
+      "mal_title": "One Punch Man 3 Part 2",
+      "mal_id": 63193,
+      "uploader": "SubsPlease",
+      "nyaa_query": "[SubsPlease] One-Punch Man S3 1080p",
+      "pending": true,
+      "pending_note": "Ali dropped Season 3 but wants this downloaded (13 Nov). MAL: January 2027, day and broadcast time not announced. SubsPlease carried Season 3 as 'One-Punch Man S3 - 01..12' (plus a 00 recap) on Sundays around 15:17 UTC. If Part 2 continues that numbering (file 13 = episode 1), keep file_offset 12; if it restarts at 01 or is renamed, set file_offset to 0 and fix nyaa_query. Slot is a placeholder.",
+      "file_offset": 12,
+      "total_episodes": null,
+      "horizon": 13,
+      "window": "15:15-15:20",
+      "duration_minutes": 5,
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-01-10T15:15:00Z"
+      }
+    },
+    {
+      "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
+      "mal_title": "Mairimashita! Iruma-kun: If Episode of Mafia",
+      "mal_id": 63419,
+      "uploader": "SubsPlease",
+      "nyaa_query": "[SubsPlease] Iruma-kun Mafia 1080p",
+      "total_episodes": 12,
+      "window": "14:00-16:00",
+      "duration_minutes": 120,
+      "note": "Spinoff. Premieres Mon 4 Jan 2027, Mondays 23:00 JST on NHK (MAL). The time is an estimate (broadcast to 2 hours after) until episode 1 is on Nyaa; SubsPlease carried seasons 1-4. Release name is a guess.",
+      "released": {},
+      "slot": {
+        "episode": 1,
+        "utc": "2027-01-04T14:00:00Z"
       }
     }
   ]

@@ -7,6 +7,9 @@ show's "slot" anchor, shifted by any "skip" weeks. The list ends at MAL's
 episode count; when MAL has no count yet, it runs to "horizon" episodes and
 says the count is unconfirmed.
 
+A show that is switched on before its first episode (premiere day and
+broadcast time announced) has an estimated window, and its events say so.
+
 After writing the feed it prints the coming week and a list of warnings for
 anything in shows.json that looks wrong (see check()). A refresh is done only
 when that list is empty or every line in it is explained.
@@ -106,6 +109,9 @@ def check(data, now):
         if show.get("pending"):
             if eps:
                 warn("is pending but has released episodes")
+            elif parse(show["slot"]["utc"]) < now - timedelta(days=1):
+                warn(f"is pending and its placeholder date ({parse(show['slot']['utc']):%a %d %b}) "
+                     "has passed: check MAL and Nyaa for the premiere")
             continue
         total = show.get("total_episodes")
         last = total or show.get("horizon", 12)
@@ -202,8 +208,15 @@ def build(data):
                 desc.append(f"Released {start.astimezone(tz):%a %d %b %H:%M} {tz_label}")
             else:
                 window = show.get("window", start.strftime("%H:%M"))
-                desc.append(f"Usually out {shift_window(window, tz)} {tz_label}, "
-                            "from recent Nyaa post times")
+                if show.get("released"):
+                    desc.append(f"Usually out {shift_window(window, tz)} {tz_label}, "
+                                "from recent Nyaa post times")
+                else:
+                    # Switched on from an announced premiere, before episode 1:
+                    # the time is an estimate, not a measured post time.
+                    desc.append(f"Expected {shift_window(window, tz)} {tz_label}. "
+                                "Estimated from the announced broadcast; "
+                                "episode 1 is not out yet")
             if not total and show.get("first_episode", 1) == 1:
                 desc.append("Episode count not on MAL yet; list runs to "
                             f"{show.get('horizon', 12)} until it is")
