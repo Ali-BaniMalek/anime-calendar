@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Log new episodes into shows.json by itself, between the weekly refreshes.
 
-GitHub runs this every hour (.github/workflows/refresh.yml). It does the
+GitHub runs this several times an hour (.github/workflows/refresh.yml; GitHub
+skips some scheduled runs, so nothing here depends on a run happening at a
+particular time). It does the
 mechanical part of README's "Weekly refresh" and nothing that needs judgment:
 
   1. For each airing show whose next episode is due, read the show's Nyaa RSS
@@ -48,7 +50,6 @@ HERE = Path(__file__).resolve().parent
 UA = "Mozilla/5.0 (compatible; release-calendar-refresh)"
 PAUSE = 3              # seconds between requests; Nyaa refuses quick ones
 LATE_HOURS = 36        # an episode this late is a break week
-LATE_EVERY = 6         # once that late, look only in every 6th hour
 MAX_SKIPS = 3          # break weeks in a row added without a person looking
 REGULAR_MINUTES = 180  # a post further than this from the usual time is a one-off
 
@@ -303,11 +304,8 @@ def refresh_show(show, web, now, everything=False):
         return []
     late_by = now - (nxt[1] + timedelta(minutes=show.get("duration_minutes", 30)))
     very_late = late_by >= timedelta(hours=LATE_HOURS)
-    if not everything:
-        if nxt[1] > now:
-            return []  # not due yet
-        if very_late and now.hour % LATE_EVERY:
-            return []  # days late: a look every few hours is enough
+    if nxt[1] > now and not everything:
+        return []  # not due yet
     print(f"{show['title']}: episode {nxt[0]} expected {nxt[1]:%a %d %b %H:%M} UTC")
     items = web.feed(show)
     if items is None:
@@ -332,13 +330,13 @@ def refresh_show(show, web, now, everything=False):
     # Nothing new. Late enough to call it a break week?
     if not very_late or not released or nxt[1] > now:
         return notes
+    recent = [s for s in show.get("skip", []) if parse(s).date() > before]
+    if len(recent) >= MAX_SKIPS:
+        return notes  # a long gap: the build's warning stays until someone looks
     if not show.get("total_episodes"):
         notes += mal_count(show, web)
         if next_due(show) is None:
             return notes  # MAL says the last one out was the finale
-    recent = [s for s in show.get("skip", []) if parse(s).date() > before]
-    if len(recent) >= MAX_SKIPS:
-        return notes  # a long gap: the build's warning stays until someone looks
     day = nxt[1].date().isoformat()
     if day not in show.get("skip", []):
         show["skip"] = sorted(show.get("skip", []) + [day])
