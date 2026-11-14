@@ -3,7 +3,7 @@
 - `shows.json`: one entry per show for the current season. This is the only file edited by hand, by the weekly refresh or by the automatic refresh.
 - `build_ics.py`: turns `shows.json` into `anime-releases.ics` (`python3 build_ics.py`), then prints the coming week and a list of warnings about anything in `shows.json` that looks wrong. The same `shows.json` always builds the same file.
 - `anime-releases.ics`: the feed Ali subscribes to. GitHub Pages serves it from `main`: https://ali-banimalek.github.io/anime-calendar/anime-releases.ics
-- `auto_refresh.py`: logs new episodes by itself, every hour, on GitHub (see Automatic refresh). `test_auto_refresh.py` holds its tests (`python3 -m unittest -q`), and `.github/workflows/refresh.yml` runs both.
+- `auto_refresh.py`: logs new episodes by itself, several times a day, on GitHub (see Automatic refresh). `test_auto_refresh.py` holds its tests (`python3 -m unittest -q`), and `.github/workflows/refresh.yml` runs both.
 
 ## Rules
 - Title format (Ali, 8 Nov 2026), the same as his watchlist and the NAS Seasonal folders: `<series title> - Season N` for season 2 and later, nothing added for season 1, `- Part N` / `- Season N Part N` for split cours, and long runners plain (One Piece). Bleach keeps MAL's cour name (Kashin-tan).
@@ -42,7 +42,7 @@ When Ali drops a show, it gets `"dropped": "YYYY-MM-DD"` and disappears from the
 Shows with `"download_only": true` (downloaded and tracked, but not watched, like One Punch Man) are the exception: Ali may mark those Dropped on MAL and still want them, so they're dropped only when the MAL entry also carries the tag `nas-dropped` (set by the Drop button) or when Ali asks.
 
 ## Automatic refresh
-GitHub runs `auto_refresh.py` every hour (workflow "Refresh the calendar", at 23 minutes past) and commits to `main` as `github-actions[bot]` when something changed. From GitHub's machines Nyaa's RSS and MAL's pages can be read directly. It does the mechanical part of the weekly refresh for the shows that are airing, and only for a show whose next episode is due:
+GitHub runs `auto_refresh.py` on a schedule (workflow "Refresh the calendar", asked for at 7, 27 and 47 minutes past every hour) and commits to `main` as `github-actions[bot]` when something changed. GitHub skips scheduled runs when it is busy, sometimes for hours, so count on "the same day", not "the same hour"; nothing in the script depends on a run happening at a particular time. From GitHub's machines Nyaa's RSS and MAL's pages can be read directly. It does the mechanical part of the weekly refresh for the shows that are airing, and only for a show whose next episode is due:
 
 - **Logs a new episode** (step 1) when it is the next one in line, from the show's uploader, under the same release name as before, and posted after the previous one. Then it moves the slot (step 2) to the show's usual weekday and re-derives the window (step 4).
 - **Break weeks** (first half of step 3): an episode that is 36 hours late is counted as a break. Its date goes into `skip`, so the rest of the season moves back a week. If the episode turns up within 5 days after all, the skip is removed again. It adds at most 3 breaks in a row; after that the build's warning stays until someone looks.
@@ -57,7 +57,7 @@ GitHub switches a scheduled workflow off after 60 days without a commit in the r
 ## Weekly refresh
 Mondays. The automatic refresh has usually done steps 1, 2 and 4 and part of 3 and 5 already. The weekly refresh checks that work and does what needs reading and judgment: announced breaks, premieres, renamed or renumbered releases, finales, long runners and the Dropped list.
 
-0. **Start from `main`.** `git pull`, then run `python3 build_ics.py` and read its warnings: they are the list of what the automatic refresh left. Look at the last runs of "Refresh the calendar" on GitHub (Actions): they should be green and less than a few hours old. If the workflow is switched off or failing, say so in the thread and do steps 1, 2 and 4 by hand.
+0. **Start from `main`.** `git pull`, then run `python3 build_ics.py` and read its warnings: they are the list of what the automatic refresh left. Look at the last runs of "Refresh the calendar" on GitHub (Actions): they should be green, and the newest one less than half a day old. If the workflow is switched off or failing, say so in the thread and do steps 1, 2 and 4 by hand.
 
 Sources are each show's Nyaa RSS feed (`https://nyaa.si/?page=rss&q=<nyaa_query>&s=id&o=desc`; without `&s=id&o=desc` WebFetch can return a cached, week-old feed) and its MAL page. From a cloud session both only work through WebFetch, and Nyaa refuses parallel requests: fetch the feeds one at a time and retry a refused one once at the end.
 

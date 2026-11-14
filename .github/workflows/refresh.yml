@@ -1,12 +1,15 @@
 name: Refresh the calendar
 
-# Every hour: log new episodes into shows.json (auto_refresh.py), rebuild the feed
-# and commit when something changed. Also rebuilds the feed when shows.json or a
-# script is pushed to main. See "Automatic refresh" in README.md.
+# Three times an hour: log new episodes into shows.json (auto_refresh.py), rebuild
+# the feed and commit when something changed. GitHub skips scheduled runs when it
+# is busy (only 1 of the first 7 hourly runs happened), so the schedule asks more
+# often than it needs; a run with nothing due takes about 10 seconds and reads
+# nothing from the web. Also rebuilds the feed when shows.json or a script is
+# pushed to main. See "Automatic refresh" in README.md.
 
 on:
   schedule:
-    - cron: "23 * * * *"
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:
     inputs:
       everything:

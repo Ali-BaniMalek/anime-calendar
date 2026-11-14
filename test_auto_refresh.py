@@ -233,16 +233,13 @@ class Breaks(Case):
         # 30 hours late: nothing yet
         _, changes = self.run_at([s], "2026-11-07 21:23")
         self.assertEqual(changes, [])
-        # past 36 hours, but not one of the hours it looks in
-        web = ar.Web(self.dir)
-        quiet({"shows": [s]}, web, utc("2026-11-08 05:23"))
-        self.assertEqual((web.calls, s.get("skip")), (0, None))
-        _, changes = self.run_at([s], "2026-11-08 06:23")
+        # past 36 hours: whichever run comes first counts it, at any hour
+        _, changes = self.run_at([s], "2026-11-08 05:23")
         self.assertEqual(s["skip"], ["2026-11-06"])
         self.assertEqual(s["slot"], {"episode": 5, "utc": "2026-11-06T15:00:00Z"})
         self.assertEqual(ar.next_due(s), (5, utc("2026-11-13 15:00")))
         self.assertEqual(len(changes), 1)
-        self.assertEqual(build_ics.check({"shows": [s]}, utc("2026-11-08 06:23")), [])
+        self.assertEqual(build_ics.check({"shows": [s]}, utc("2026-11-08 05:23")), [])
         # the rest of the week it is not fetched at all
         web = ar.Web(self.dir)
         quiet({"shows": [s]}, web, utc("2026-11-12 12:23"))
@@ -284,6 +281,19 @@ class Breaks(Case):
             quiet({"shows": [s]}, ar.Web(self.dir), when)
         self.assertEqual(s["skip"], ["2026-11-06", "2026-11-13", "2026-11-20"])
         self.assertTrue(any("was due" in w for w in build_ics.check({"shows": [s]}, when)))
+
+    def test_mal_is_read_once_per_break_and_not_after_the_third(self):
+        s = show(total_episodes=None, horizon=12)
+        self.feed(100, [("[SubsPlease] Test Show - 52 (1080p) [B].mkv", "2026-10-30 15:02")])
+        self.mal(100, "Unknown")
+        when, reads = utc("2026-11-06 00:23"), 0
+        for _ in range(24 * 40):
+            when += timedelta(hours=1)
+            web = ar.Web(self.dir)
+            quiet({"shows": [s]}, web, when)
+            reads += web.calls - (1 if web.calls else 0)  # calls beyond the feed are MAL pages
+        self.assertEqual(len(s["skip"]), 3)
+        self.assertEqual(reads, 3)
 
     def test_late_post_on_the_usual_day_keeps_the_window(self):
         s = show()
