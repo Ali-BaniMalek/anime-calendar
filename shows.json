@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -97,12 +97,14 @@
         "4": "2026-10-18T15:02:09Z",
         "5": "2026-10-25T15:02:16Z",
         "6": "2026-11-01T15:02:17Z",
-        "7": "2026-11-08T15:02:16Z"
+        "7": "2026-11-08T15:02:16Z",
+        "8": "2026-11-15T15:02:07Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-15T15:00:00Z"
-      }
+        "episode": 9,
+        "utc": "2026-11-22T15:00:00Z"
+      },
+      "release_name": "Tensei Kizoku, Kantei Skill de Nariagaru"
     },
     {
       "title": "Overgeared",
@@ -121,12 +123,14 @@
         "4": "2026-10-18T14:35:23Z",
         "5": "2026-10-25T14:35:54Z",
         "6": "2026-11-01T14:32:47Z",
-        "7": "2026-11-08T14:36:59Z"
+        "7": "2026-11-08T14:36:59Z",
+        "8": "2026-11-15T14:35:53Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-15T14:30:00Z"
-      }
+        "episode": 9,
+        "utc": "2026-11-22T14:30:00Z"
+      },
+      "release_name": "Tempal - Item no Chikara"
     },
     {
       "title": "Yasei no Last Boss ga Arawareta! - Season 2",
@@ -238,15 +242,17 @@
         "2": "2026-10-11T15:13:07Z",
         "3": "2026-10-18T08:11:15Z",
         "4": "2026-10-25T08:10:11Z",
-        "5": "2026-11-08T08:24:17Z"
+        "5": "2026-11-08T08:24:17Z",
+        "6": "2026-11-15T15:12:58Z"
       },
       "slot": {
-        "episode": 6,
-        "utc": "2026-11-15T08:10:00Z"
+        "episode": 7,
+        "utc": "2026-11-22T08:10:00Z"
       },
       "skip": [
         "2026-11-01"
-      ]
+      ],
+      "release_name": "Ao no Hako Season 2"
     },
     {
       "title": "Koori no Jouheki - Season 2",
@@ -315,13 +321,15 @@
         "2": "2026-10-18T08:43:57Z",
         "3": "2026-10-25T08:51:44Z",
         "4": "2026-11-01T11:23:58Z",
-        "5": "2026-11-08T08:40:25Z"
+        "5": "2026-11-08T08:40:25Z",
+        "6": "2026-11-15T15:33:33Z"
       },
       "slot": {
-        "episode": 6,
-        "utc": "2026-11-15T08:40:00Z"
+        "episode": 7,
+        "utc": "2026-11-22T08:40:00Z"
       },
-      "file_offset": 0
+      "file_offset": 0,
+      "release_name": "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
     },
     {
       "title": "Hotaru no Yomeiri",
