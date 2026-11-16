@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -174,12 +174,14 @@
         "3": "2026-10-19T12:32:02Z",
         "4": "2026-10-26T12:31:54Z",
         "5": "2026-11-02T12:32:10Z",
-        "6": "2026-11-09T12:32:08Z"
+        "6": "2026-11-09T12:32:08Z",
+        "7": "2026-11-16T12:32:09Z"
       },
       "slot": {
-        "episode": 7,
-        "utc": "2026-11-16T12:30:00Z"
-      }
+        "episode": 8,
+        "utc": "2026-11-23T12:30:00Z"
+      },
+      "release_name": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu."
     },
     {
       "title": "Chitose-kun wa Ramune Bin no Naka - Part 2",
