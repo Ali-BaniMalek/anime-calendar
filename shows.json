@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -198,11 +198,12 @@
         "2": "2026-10-20T16:32:09Z",
         "3": "2026-10-27T16:32:02Z",
         "4": "2026-11-03T16:32:05Z",
-        "5": "2026-11-10T16:32:09Z"
+        "5": "2026-11-10T16:32:09Z",
+        "6": "2026-11-17T16:31:27Z"
       },
       "slot": {
-        "episode": 6,
-        "utc": "2026-11-17T16:30:00Z"
+        "episode": 7,
+        "utc": "2026-11-24T16:30:00Z"
       },
       "note": "SubsPlease numbers Part 2 on from Part 1 (file 14 = Part 2 episode 1).",
       "file_offset": 13,
