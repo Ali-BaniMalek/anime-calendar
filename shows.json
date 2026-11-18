@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -63,8 +63,8 @@
       "uploader": "SubsPlease",
       "nyaa_query": "[SubsPlease] Tensei Shitara Ken Deshita S2 1080p",
       "total_episodes": 12,
-      "window": "15:30-15:40",
-      "duration_minutes": 10,
+      "window": "15:30-15:35",
+      "duration_minutes": 5,
       "released": {
         "1": "2026-09-30T19:06:14Z",
         "2": "2026-10-07T15:34:37Z",
@@ -72,11 +72,12 @@
         "4": "2026-10-21T15:34:24Z",
         "5": "2026-10-28T15:37:03Z",
         "6": "2026-11-04T15:33:40Z",
-        "7": "2026-11-11T15:32:43Z"
+        "7": "2026-11-11T15:32:43Z",
+        "8": "2026-11-18T15:33:48Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-18T15:30:00Z"
+        "episode": 9,
+        "utc": "2026-11-25T15:30:00Z"
       },
       "release_name": "Tensei Shitara Ken Deshita S2"
     },
