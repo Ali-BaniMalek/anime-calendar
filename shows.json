@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -265,8 +265,8 @@
       "uploader": "Erai-raws",
       "nyaa_query": "Erai-raws Koori no Jouheki 2nd Season 1080p AVC",
       "total_episodes": 13,
-      "window": "15:40-17:45",
-      "duration_minutes": 125,
+      "window": "15:40-16:35",
+      "duration_minutes": 55,
       "note": "Netflix. Erai-raws usually posts 15:40-17:45 UTC; episode 4 came late, at 20:48.",
       "released": {
         "1": "2026-10-02T01:40:20Z",
@@ -275,11 +275,12 @@
         "4": "2026-10-22T20:48:44Z",
         "5": "2026-10-29T17:42:58Z",
         "6": "2026-11-05T15:41:24Z",
-        "7": "2026-11-12T15:56:41Z"
+        "7": "2026-11-12T15:56:41Z",
+        "8": "2026-11-19T16:31:13Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-19T15:40:00Z"
+        "episode": 9,
+        "utc": "2026-11-26T15:40:00Z"
       },
       "release_name": "Koori no Jouheki 2nd Season"
     },
