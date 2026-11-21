@@ -3,7 +3,7 @@
   "calendar_name": "Anime Releases",
   "display_tz": "Asia/Dubai",
   "display_tz_label": "UAE time",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "shows": [
     {
       "title": "Kusuriya no Hitorigoto - Season 3",
@@ -49,11 +49,12 @@
         "4": "2026-10-24T15:04:44Z",
         "5": "2026-10-31T15:03:59Z",
         "6": "2026-11-07T15:01:48Z",
-        "7": "2026-11-14T15:04:07Z"
+        "7": "2026-11-14T15:04:07Z",
+        "8": "2026-11-21T15:04:42Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-21T15:00:00Z"
+        "episode": 9,
+        "utc": "2026-11-28T15:00:00Z"
       },
       "release_name": "Black Clover"
     },
@@ -153,11 +154,12 @@
         "5": "2026-10-24T13:32:19Z",
         "6": "2026-10-31T13:32:04Z",
         "7": "2026-11-07T13:32:08Z",
-        "8": "2026-11-14T13:32:05Z"
+        "8": "2026-11-14T13:32:05Z",
+        "9": "2026-11-21T13:32:00Z"
       },
       "slot": {
-        "episode": 9,
-        "utc": "2026-11-21T13:30:00Z"
+        "episode": 10,
+        "utc": "2026-11-28T13:30:00Z"
       },
       "release_name": "Yasei no Last Boss ga Arawareta!"
     },
@@ -293,8 +295,8 @@
       "nyaa_query": "Erai-raws Ranma 3rd Season 1080p AVC",
       "total_episodes": null,
       "horizon": 12,
-      "window": "17:05-19:00",
-      "duration_minutes": 115,
+      "window": "17:05-17:15",
+      "duration_minutes": 10,
       "note": "Netflix. Erai-raws usually posts 17:05-19:00 UTC; episode 4 came late, at 21:36.",
       "released": {
         "1": "2026-10-03T17:14:09Z",
@@ -303,11 +305,12 @@
         "4": "2026-10-24T21:36:42Z",
         "5": "2026-10-31T18:59:41Z",
         "6": "2026-11-07T17:06:16Z",
-        "7": "2026-11-14T17:06:03Z"
+        "7": "2026-11-14T17:06:03Z",
+        "8": "2026-11-21T17:10:19Z"
       },
       "slot": {
-        "episode": 8,
-        "utc": "2026-11-21T17:05:00Z"
+        "episode": 9,
+        "utc": "2026-11-28T17:05:00Z"
       },
       "release_name": "Ranma 1/2 (2024) 3rd Season"
     },
